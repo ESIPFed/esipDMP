@@ -8,7 +8,7 @@ execute:
 
 website:
   title: "esipDMP: Primer on Best Practices and Tools for Data Management Planning"
-  site-url: https://esipDMP.github.io/
+  site-url: https://esipfed.github.io/esipDMP/
   repo-url: https://github.com/ESIPFed/esipDMP
   repo-actions: [edit, source, issue]
   
