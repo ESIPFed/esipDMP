@@ -1,0 +1,59 @@
+project:
+  type: website
+  output-dir: _site
+
+execute:
+    freeze: true  # true = never re-execute computational content during project render, needed for .qmd and .rmd since quarto
+
+
+website:
+  title: "esipDMP: Primer on Best Practices and Tools for Data Management Planning"
+  site-url: https://esipDMP.github.io/
+  repo-url: https://github.com/ESIPFed/esipDMP
+  repo-actions: [edit, source, issue]
+  
+  page-navigation: true
+  # navbar:
+  #   left:
+  #     - href: index.qmd
+  #       text: Home
+  #     - about.qmd
+
+  page-footer: 
+    left: "Eart Sciences Information Partners (ESIP) &copy; Data Stewardship Committee (2025)."
+    #right: "Built with Quarto and GitHub Pages."
+  
+  sidebar:
+    title: "esipDMP Primer"
+    #logo: images/nasa-openscapes.png
+    pinned: true
+    align: center
+    tools: 
+      - icon: globe
+        href: https://www.esipfed.org/
+        text: "ESIP website"
+      - icon: github
+        href: https://github.com/ESIPFed/esipDMP
+        text: "esipDMP repo"
+  
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - text: "Welcome"
+        href: index.qmd
+      
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: [cosmo, assets/styles/theme-dark.scss]
+    code-background: true
+    code-copy: true
+    css: assets/styles/styles.css
+    toc: true
+
+filters:
+  - quarto
+
+
