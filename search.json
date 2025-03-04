@@ -1,19 +1,19 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "esipDMP Primer",
-    "section": "",
-    "text": "Chapter 1\nThis is a Quarto website.\n\n\nChapter 2\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "esipDMP Primer",
+    "section": "",
+    "text": "Chapter 1\nThis is a Quarto website.\n\n\nChapter 2\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\nChapter 3\nFind out about ESIP at https://www.esipfed.org/.",
+    "crumbs": [
+      "Welcome"
+    ]
   }
 ]
