@@ -1,5 +1,5 @@
 blank_issues_enabled: true
-# contact_links: # If you prefer, you can direct people to external sites
-#     - name: esipDMP GitHub Issues
-#       url: https://github.com/ESIPFed/esipDMP/issues/new/choose 
-#       about: Please report any issues here.
+contact_links: # If you prefer, you can direct people to external sites
+     - name: Direct message
+       #url: https://github.com/ESIPFed/esipDMP/issues/new/choose 
+       about: Directly report any issues here.
