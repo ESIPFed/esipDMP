@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://esipfed.github.io/esipDMP/about.html</loc>
-    <lastmod>2025-03-17T20:37:04.197Z</lastmod>
+    <lastmod>2025-03-17T21:35:05.520Z</lastmod>
+  </url>
+  <url>
+    <loc>https://esipfed.github.io/esipDMP/sections/outputs.html</loc>
+    <lastmod>2025-03-17T21:35:05.521Z</lastmod>
+  </url>
+  <url>
+    <loc>https://esipfed.github.io/esipDMP/sections/standardization.html</loc>
+    <lastmod>2025-03-17T21:35:05.521Z</lastmod>
+  </url>
+  <url>
+    <loc>https://esipfed.github.io/esipDMP/sections/access.html</loc>
+    <lastmod>2025-03-17T21:35:05.521Z</lastmod>
   </url>
   <url>
     <loc>https://esipfed.github.io/esipDMP/index.html</loc>
-    <lastmod>2025-03-17T20:37:04.197Z</lastmod>
+    <lastmod>2025-03-17T21:35:05.520Z</lastmod>
+  </url>
+  <url>
+    <loc>https://esipfed.github.io/esipDMP/sections/data_management.html</loc>
+    <lastmod>2025-03-17T21:35:05.521Z</lastmod>
+  </url>
+  <url>
+    <loc>https://esipfed.github.io/esipDMP/sections/roles_responsibilities.html</loc>
+    <lastmod>2025-03-17T21:35:05.521Z</lastmod>
+  </url>
+  <url>
+    <loc>https://esipfed.github.io/esipDMP/sections/pids.html</loc>
+    <lastmod>2025-03-17T21:35:05.521Z</lastmod>
   </url>
 </urlset>

@@ -7,6 +7,86 @@
     "text": "About this site"
   },
   {
+    "objectID": "sections/outputs.html",
+    "href": "sections/outputs.html",
+    "title": "Research Outputs",
+    "section": "",
+    "text": "Research outputs include a variety of materials and data generated during the research process. These may include:\n\nSamples\n\nPhysical samples (e.g., biological, chemical, geological)\nDigital samples (e.g., scanned images, 3D models)\n\nData\n\nRaw data\nProcessed data\nMetadata\n\nCollections\n\nCurated sets of samples or data\n\nSoftware\n\nCode, scripts, or applications developed for analysis\n\nMaterials\n\nLab protocols, reagents, or experimental setups\n\nModels\n\nStatistical, mathematical, or computational models\n\nDocuments/Posters/Pre-prints/Publications/Videos\n\nResearch papers, conference posters, pre-prints, and multimedia content",
+    "crumbs": [
+      "Research Outputs"
+    ]
+  },
+  {
+    "objectID": "sections/outputs.html#what-research-outputs-are-being-produced",
+    "href": "sections/outputs.html#what-research-outputs-are-being-produced",
+    "title": "Research Outputs",
+    "section": "",
+    "text": "Research outputs include a variety of materials and data generated during the research process. These may include:\n\nSamples\n\nPhysical samples (e.g., biological, chemical, geological)\nDigital samples (e.g., scanned images, 3D models)\n\nData\n\nRaw data\nProcessed data\nMetadata\n\nCollections\n\nCurated sets of samples or data\n\nSoftware\n\nCode, scripts, or applications developed for analysis\n\nMaterials\n\nLab protocols, reagents, or experimental setups\n\nModels\n\nStatistical, mathematical, or computational models\n\nDocuments/Posters/Pre-prints/Publications/Videos\n\nResearch papers, conference posters, pre-prints, and multimedia content",
+    "crumbs": [
+      "Research Outputs"
+    ]
+  },
+  {
+    "objectID": "sections/outputs.html#number-and-size-of-research-outputs",
+    "href": "sections/outputs.html#number-and-size-of-research-outputs",
+    "title": "Research Outputs",
+    "section": "Number and Size of Research Outputs",
+    "text": "Number and Size of Research Outputs\n\nNumber of files, samples, collections, etc.\n\nEstimated count of each type of output.\n\nSize of each file, sample, etc.\n\nFile sizes (e.g., MB, GB, TB) for digital outputs.\nPhysical dimensions or quantities for physical samples.",
+    "crumbs": [
+      "Research Outputs"
+    ]
+  },
+  {
+    "objectID": "sections/outputs.html#metadata-critical-for-data-interpretation-and-reuse",
+    "href": "sections/outputs.html#metadata-critical-for-data-interpretation-and-reuse",
+    "title": "Research Outputs",
+    "section": "Metadata Critical for Data Interpretation and Reuse",
+    "text": "Metadata Critical for Data Interpretation and Reuse\n\nSensor metadata\n\nInformation about instruments or sensors used to collect data.\n\nSampling effort metadata\n\nDetails about sampling methods, locations, and conditions.",
+    "crumbs": [
+      "Research Outputs"
+    ]
+  },
+  {
+    "objectID": "sections/standardization.html",
+    "href": "sections/standardization.html",
+    "title": "Standardization of Data and Metadata",
+    "section": "",
+    "text": "Use of widely accepted formats (e.g., CSV, JSON, HDF5 for data; XML, JSON-LD for metadata).\nConsistent naming conventions and file structures.\n\n\n\n\n\nAdherence to domain-specific standards (e.g., Darwin Core for biodiversity data, DICOM for medical imaging).\nCompliance with FAIR principles (Findable, Accessible, Interoperable, Reusable).\n\n\n\n\n\nImplementation of quality assurance and quality control processes.\nRegular audits and validation checks to ensure data integrity.",
+    "crumbs": [
+      "Standardization of Data and Metadata"
+    ]
+  },
+  {
+    "objectID": "sections/standardization.html#how-will-it-be-standardized",
+    "href": "sections/standardization.html#how-will-it-be-standardized",
+    "title": "Standardization of Data and Metadata",
+    "section": "",
+    "text": "Use of widely accepted formats (e.g., CSV, JSON, HDF5 for data; XML, JSON-LD for metadata).\nConsistent naming conventions and file structures.\n\n\n\n\n\nAdherence to domain-specific standards (e.g., Darwin Core for biodiversity data, DICOM for medical imaging).\nCompliance with FAIR principles (Findable, Accessible, Interoperable, Reusable).\n\n\n\n\n\nImplementation of quality assurance and quality control processes.\nRegular audits and validation checks to ensure data integrity.",
+    "crumbs": [
+      "Standardization of Data and Metadata"
+    ]
+  },
+  {
+    "objectID": "sections/access.html",
+    "href": "sections/access.html",
+    "title": "Access to Research Outputs",
+    "section": "",
+    "text": "Sharing\n\nMechanisms for sharing outputs (e.g., repositories, cloud storage).\n\nProvisions/Protection\n\nMeasures to protect sensitive or confidential data (e.g., encryption, access controls).\n\nTimeline for Availability/Access\n\nWhen will products be shared or published (e.g., immediately, after embargo period).\n\nLicense\n\nLicensing terms (e.g., Creative Commons, MIT License).\n\nRestrictions / Confidentiality / Proprietary Business Info\n\nAny limitations on access due to confidentiality or proprietary concerns.",
+    "crumbs": [
+      "Access to Research Outputs"
+    ]
+  },
+  {
+    "objectID": "sections/access.html#what-does-access-look-like",
+    "href": "sections/access.html#what-does-access-look-like",
+    "title": "Access to Research Outputs",
+    "section": "",
+    "text": "Sharing\n\nMechanisms for sharing outputs (e.g., repositories, cloud storage).\n\nProvisions/Protection\n\nMeasures to protect sensitive or confidential data (e.g., encryption, access controls).\n\nTimeline for Availability/Access\n\nWhen will products be shared or published (e.g., immediately, after embargo period).\n\nLicense\n\nLicensing terms (e.g., Creative Commons, MIT License).\n\nRestrictions / Confidentiality / Proprietary Business Info\n\nAny limitations on access due to confidentiality or proprietary concerns.",
+    "crumbs": [
+      "Access to Research Outputs"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "esipDMP Primer",
@@ -14,6 +94,136 @@
     "text": "Chapter 1\nThis is a Quarto website.\n\n\nChapter 2\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\nChapter 3\nFind out about ESIP at https://www.esipfed.org/.",
     "crumbs": [
       "Welcome"
+    ]
+  },
+  {
+    "objectID": "sections/data_management.html",
+    "href": "sections/data_management.html",
+    "title": "Data Management",
+    "section": "",
+    "text": "Comprehensive plan for managing research data throughout its lifecycle.",
+    "crumbs": [
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "sections/data_management.html#overview",
+    "href": "sections/data_management.html#overview",
+    "title": "Data Management",
+    "section": "",
+    "text": "Comprehensive plan for managing research data throughout its lifecycle.",
+    "crumbs": [
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "sections/data_management.html#key-components",
+    "href": "sections/data_management.html#key-components",
+    "title": "Data Management",
+    "section": "Key Components",
+    "text": "Key Components\n\nData Collection\n\nMethods and tools for data collection.\n\nData Storage\n\nSecure and scalable storage solutions.\n\nData Backup\n\nRegular backups to prevent data loss.\n\nData Archiving\n\nLong-term preservation of data in trusted repositories.\n\nData Sharing\n\nPolicies and platforms for sharing data with the broader community.\n\nData Retention\n\nGuidelines for retaining or disposing of data after project completion.",
+    "crumbs": [
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "sections/roles_responsibilities.html",
+    "href": "sections/roles_responsibilities.html",
+    "title": "Roles and Responsibilities",
+    "section": "",
+    "text": "Oversees data management practices.\nEnsures compliance with the Data Management Plan (DMP).",
+    "crumbs": [
+      "Roles and Responsibilities"
+    ]
+  },
+  {
+    "objectID": "sections/roles_responsibilities.html#data-manager",
+    "href": "sections/roles_responsibilities.html#data-manager",
+    "title": "Roles and Responsibilities",
+    "section": "",
+    "text": "Oversees data management practices.\nEnsures compliance with the Data Management Plan (DMP).",
+    "crumbs": [
+      "Roles and Responsibilities"
+    ]
+  },
+  {
+    "objectID": "sections/roles_responsibilities.html#point-of-contact-for-the-dmp",
+    "href": "sections/roles_responsibilities.html#point-of-contact-for-the-dmp",
+    "title": "Roles and Responsibilities",
+    "section": "Point of Contact for the DMP",
+    "text": "Point of Contact for the DMP\n\nPrimary individual responsible for DMP updates and communication.\nEnsures the DMP is followed by the research team.",
+    "crumbs": [
+      "Roles and Responsibilities"
+    ]
+  },
+  {
+    "objectID": "sections/roles_responsibilities.html#contractorconsultantthird-party-contact-information",
+    "href": "sections/roles_responsibilities.html#contractorconsultantthird-party-contact-information",
+    "title": "Roles and Responsibilities",
+    "section": "Contractor/Consultant/Third Party Contact Information",
+    "text": "Contractor/Consultant/Third Party Contact Information\n\nDetails of external parties involved in data management.",
+    "crumbs": [
+      "Roles and Responsibilities"
+    ]
+  },
+  {
+    "objectID": "sections/roles_responsibilities.html#plan-for-personnel-turnovertransfer",
+    "href": "sections/roles_responsibilities.html#plan-for-personnel-turnovertransfer",
+    "title": "Roles and Responsibilities",
+    "section": "Plan for Personnel Turnover/Transfer",
+    "text": "Plan for Personnel Turnover/Transfer\n\nProcedures for transferring responsibilities in case of personnel changes.\nDocumentation of roles and access permissions.",
+    "crumbs": [
+      "Roles and Responsibilities"
+    ]
+  },
+  {
+    "objectID": "sections/pids.html",
+    "href": "sections/pids.html",
+    "title": "Persistent Identifiers (PIDs)",
+    "section": "",
+    "text": "Use of PIDs (e.g., DOI, Handle, ARK) to uniquely identify outputs.",
+    "crumbs": [
+      "Persistent Identifiers (PIDs)"
+    ]
+  },
+  {
+    "objectID": "sections/pids.html#research-outputs",
+    "href": "sections/pids.html#research-outputs",
+    "title": "Persistent Identifiers (PIDs)",
+    "section": "",
+    "text": "Use of PIDs (e.g., DOI, Handle, ARK) to uniquely identify outputs.",
+    "crumbs": [
+      "Persistent Identifiers (PIDs)"
+    ]
+  },
+  {
+    "objectID": "sections/pids.html#formats-and-standards",
+    "href": "sections/pids.html#formats-and-standards",
+    "title": "Persistent Identifiers (PIDs)",
+    "section": "Formats and Standards",
+    "text": "Formats and Standards\n\nPIDs for metadata schemas and standards.",
+    "crumbs": [
+      "Persistent Identifiers (PIDs)"
+    ]
+  },
+  {
+    "objectID": "sections/pids.html#access",
+    "href": "sections/pids.html#access",
+    "title": "Persistent Identifiers (PIDs)",
+    "section": "Access",
+    "text": "Access\n\nPIDs for access protocols and repositories.",
+    "crumbs": [
+      "Persistent Identifiers (PIDs)"
+    ]
+  },
+  {
+    "objectID": "sections/pids.html#data-management",
+    "href": "sections/pids.html#data-management",
+    "title": "Persistent Identifiers (PIDs)",
+    "section": "Data Management",
+    "text": "Data Management\n\nPIDs for datasets and related documentation.",
+    "crumbs": [
+      "Persistent Identifiers (PIDs)"
     ]
   }
 ]
