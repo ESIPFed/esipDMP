@@ -1,0 +1,18 @@
+---
+title: "Roles and Responsibilities"
+---
+
+## Data Manager
+- Oversees data management practices.
+- Ensures compliance with the Data Management Plan (DMP).
+
+## Point of Contact for the DMP
+- Primary individual responsible for DMP updates and communication.
+- Ensures the DMP is followed by the research team.
+
+## Contractor/Consultant/Third Party Contact Information
+- Details of external parties involved in data management.
+
+## Plan for Personnel Turnover/Transfer
+- Procedures for transferring responsibilities in case of personnel changes.
+- Documentation of roles and access permissions.
