@@ -1,0 +1,17 @@
+---
+title: "Access to Research Outputs"
+---
+
+## What Does Access Look Like?
+
+### Access
+- **Sharing**
+  - Mechanisms for sharing outputs (e.g., repositories, cloud storage).
+- **Provisions/Protection**
+  - Measures to protect sensitive or confidential data (e.g., encryption, access controls).
+- **Timeline for Availability/Access**
+  - When will products be shared or published (e.g., immediately, after embargo period).
+- **License**
+  - Licensing terms (e.g., Creative Commons, MIT License).
+- **Restrictions / Confidentiality / Proprietary Business Info**
+  - Any limitations on access due to confidentiality or proprietary concerns.

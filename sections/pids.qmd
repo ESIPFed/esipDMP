@@ -1,0 +1,15 @@
+---
+title: "Persistent Identifiers (PIDs)"
+---
+
+## Research Outputs
+- Use of PIDs (e.g., DOI, Handle, ARK) to uniquely identify outputs.
+
+## Formats and Standards
+- PIDs for metadata schemas and standards.
+
+## Access
+- PIDs for access protocols and repositories.
+
+## Data Management
+- PIDs for datasets and related documentation.

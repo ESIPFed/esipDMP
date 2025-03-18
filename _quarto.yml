@@ -43,7 +43,22 @@ website:
     contents:
       - text: "Welcome"
         href: index.qmd
-      
+      - text: "Research Outputs"
+        href: sections/outputs.qmd
+      - text: "Standardization of Data and Metadata"
+        href: sections/standardization.qmd
+      - text: "Access to Research Outputs"
+        href: sections/access.qmd
+      - text: "Roles and Responsibilities"
+        href: sections/roles_responsibilities.qmd
+      - text: "Persistent Identifiers (PIDs)"
+        href: sections/pids.qmd
+      - text: "Data Management"
+        href: sections/data_management.qmd
+      # - section: core-lessons/index.qmd
+      #   contents:        
+      #    - href: "core-lessons/mindset.qmd"
+      #      text: Mindset
 format:
   html:
     theme:

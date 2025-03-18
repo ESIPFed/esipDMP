@@ -1,0 +1,40 @@
+---
+title: "Research Outputs"
+---
+
+## What Research Outputs Are Being Produced?
+
+Research outputs include a variety of materials and data generated during the research process. These may include:
+
+- **Samples**
+  - Physical samples (e.g., biological, chemical, geological)
+  - Digital samples (e.g., scanned images, 3D models)
+- **Data**
+  - Raw data
+  - Processed data
+  - Metadata
+- **Collections**
+  - Curated sets of samples or data
+- **Software**
+  - Code, scripts, or applications developed for analysis
+- **Materials**
+  - Lab protocols, reagents, or experimental setups
+- **Models**
+  - Statistical, mathematical, or computational models
+- **Documents/Posters/Pre-prints/Publications/Videos**
+  - Research papers, conference posters, pre-prints, and multimedia content
+
+## Number and Size of Research Outputs
+
+- **Number of files, samples, collections, etc.**
+  - Estimated count of each type of output.
+- **Size of each file, sample, etc.**
+  - File sizes (e.g., MB, GB, TB) for digital outputs.
+  - Physical dimensions or quantities for physical samples.
+
+## Metadata Critical for Data Interpretation and Reuse
+
+- **Sensor metadata**
+  - Information about instruments or sensors used to collect data.
+- **Sampling effort metadata**
+  - Details about sampling methods, locations, and conditions.
