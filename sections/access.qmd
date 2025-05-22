@@ -6,7 +6,7 @@ title: "Access to Research Outputs"
 
 ### Access
 
--   BCO-DMO: Church
+-   BCO-DMO: [Church](https://drive.google.com/file/d/1lFfmFJ0FRqvj4HQU6FX-QFne-2XYPQ6y/view?usp=share_link)
     -   To increase accessibility to project data and the dissemination of our research findings—particularly among scientists from developing countries—we will make every effort to publish our results as open-access articles or within open-access journals.
 -   **Sharing**
     -   Mechanisms for sharing outputs (e.g., repositories, cloud storage).
