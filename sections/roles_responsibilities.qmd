@@ -40,7 +40,7 @@ title: "Roles and Responsibilities"
 
     -   e.g: [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link):
 
-        -   Lead PI will ensure compliance to this data management plan. \## Contractor/Consultant/Third Party Contact Information
+        -   Lead PI will ensure compliance to this data management plan.
 
 -   Details of external parties involved in data management.
 
