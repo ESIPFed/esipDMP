@@ -11,7 +11,7 @@ title: "Access to Research Outputs"
 -   **Sharing**
     -   Mechanisms for sharing outputs (e.g., repositories, cloud storage).
 
-**Archive(s)**\`
+**Archive(s)**
 
 -   Where the data will be stored (e.g., institutional repository, public archive).
     -   e.g.:
