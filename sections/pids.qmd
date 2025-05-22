@@ -22,7 +22,7 @@ Example PIDs:
 
 -   [ORCID](https://orcid.org) - person PIDs
 
--   [ROR](https://ror.org)- research organization PIDs
+-   [ROR](https://ror.org) - research organization PIDs
 
 -   [Re3data](https://www.re3data.org) - specifically PIDs for data repositories
 
