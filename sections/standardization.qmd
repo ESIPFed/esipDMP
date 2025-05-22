@@ -5,13 +5,34 @@ title: "Standardization of Data and Metadata"
 ## How Will It Be Standardized?
 
 ### Data / Metadata Formats
-- Use of widely accepted formats (e.g., CSV, JSON, HDF5 for data; XML, JSON-LD for metadata).
-- Consistent naming conventions and file structures.
+
+-   Use of widely accepted formats (e.g., CSV, JSON, HDF5 for data; XML, JSON-LD for metadata).
+
+    -   e.g.:
+
+        -   BCO-DMO [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link)
+
+            -   Field observation data will be stored in flat ASCII files, which can be read easily by different software packages. Observational and experimental data from processed samples will be stored mainly as spreadsheets. Imagery from the seafloor will be stored in original resolution (this will be the biggest data volume in this project). Metadata will be prepared in accordance with BCO-DMO conventions (i.e. using the BCO-DMO metadata forms) and will include detailed descriptions of collection and analysis procedures.
+
+-   Consistent naming conventions and file structures.
 
 ### Standards
-- Adherence to domain-specific standards (e.g., Darwin Core for biodiversity data, DICOM for medical imaging).
-- Compliance with FAIR principles (Findable, Accessible, Interoperable, Reusable).
+
+-   Adherence to domain-specific standards (e.g., Darwin Core for biodiversity data, DICOM for medical imaging).
+    -   e.g.:
+        -   BCO-DMO: [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link)
+            -   Specifically for animals: We will utilize the World Register of Marine Species (WoRMS) taxonomic classification. We will standardize to Darwin Core format to provide occurrence data to OBIS and GBIF. Specifically for microbes: Genetic sequence data will be prepared in accordance with the minimum information about a marker gene sequence (MIMARKS) and about a metagenome sequence (MIMS) developed by the Genomic Standards Consortium, with quality control screening of raw reads from 16S/18S rRNA sequencing and raw metagenomic sequences. Specifically for minerals: Rock samples will be assigned International Geo Sample Numbers (IGSN) through SESAR (System for Earth Sample Registration)
+-   Compliance with FAIR principles (Findable, Accessible, Interoperable, Reusable).
+    -   e.g.:
+        -   LTER [Sosik](https://drive.google.com/file/d/1-kTwz8I46snB0tfNk4U8bk8suVjF8xjG/view?usp=drive_link)
+            -   To contribute FAIR (Findable, Accessible, Interoperable, Reusable) data products to DataONE and other community repositories, our IM team uses non-proprietary data formats, standardizes metadata, and promotes the use of controlled vocabularies.
 
 ### QA/QC Methods
-- Implementation of quality assurance and quality control processes.
-- Regular audits and validation checks to ensure data integrity.
+
+-   Implementation of quality assurance and quality control processes.
+-   Regular audits and validation checks to ensure data integrity.
+    -   e.g.:
+        -   BCO-DMO: [Saito](https://drive.google.com/file/d/1xJ8EiH436Fr95XrIEsvyYHoQv0mErSwB/view?usp=share_link)
+            -   Quality flags will be assigned according to the ODS IODE Quality Flag scheme (IOC Manuals and Guides, 54, volume 3; \[http://www.iode.org/mg54\\\_3\](http://www.iode.org/mg54_3) ).
+        -   IOOS: [SCCOOS](https://sccoos.org/)
+            -   For sources that do not provide quality flags, the SCCOOS DMAC Sub-System runs QARTOD tests after ingesting observation data. Tests are run using the open-source [ioos\\\_qc library](https://github.com/ioos/ioos\_qc), which implements a suite of QARTOD tests as well as other quality control algorithms. The quality test code and test thresholds are documented and publicly available through the CalOOS Data Portal. Links to the ioos\\\_qc methods used are available both within data charts and on sensor pages within the CalOOS Data Portal. Thresholds used for each test are also viewable on sensor pages and users are linked to the test code in GitHub.

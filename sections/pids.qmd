@@ -3,13 +3,41 @@ title: "Persistent Identifiers (PIDs)"
 ---
 
 ## Research Outputs
-- Use of PIDs (e.g., DOI, Handle, ARK) to uniquely identify outputs.
+
+-   Use of PIDs (e.g., DOI, Handle, ARK) to uniquely identify outputs.
 
 ## Formats and Standards
-- PIDs for metadata schemas and standards.
+
+-   PIDs for metadata schemas and standards.
 
 ## Access
-- PIDs for access protocols and repositories.
+
+-   PIDs for access protocols and repositories.
 
 ## Data Management
-- PIDs for datasets and related documentation.
+
+-   PIDs for datasets and related documentation.
+
+Example PIDs:
+
+-   [ORCID](https://orcid.org) - person PIDs
+
+-   [ROR](https://ror.org)- research organization PIDs
+
+-   [Re3data](https://www.re3data.org) - specifically PIDs for data repositories
+
+-   Funding Award Numbers
+
+-   [RAID](https://raid.org) - project meta-PID
+
+-   [RRID](https://www.rrids.org)
+
+-   [DataCite (DOIs)](https://datacite.org)
+
+::: callout-tip
+## Additional reading
+
+**[Ten simple rules for getting and giving credit for data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010476)**
+
+-   Wood-Charlson EM, Crockett Z, Erdmann C, Arkin AP, Robinson CB (2022) Ten simple rules for getting and giving credit for data. PLOS Computational Biology 18(9): e1010476. <https://doi.org/10.1371/journal.pcbi.1010476>
+:::
