@@ -18,7 +18,7 @@ title: "Roles and Responsibilities"
 
             -   Physical sample cataloging:
 
-                -   PI1will obtain IGSNs for rock samples; PI2 will provide unique
+                -   PI1 will obtain IGSNs for rock samples; PI2 will provide unique
 
             -   Animal specimen identifiers:
 
