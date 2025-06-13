@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://esipfed.github.io/esipDMP/sections/access.html</loc>
-    <lastmod>2025-06-09T17:26:56.496Z</lastmod>
-  </url>
-  <url>
-    <loc>https://esipfed.github.io/esipDMP/sections/data_management.html</loc>
-    <lastmod>2025-06-09T17:26:56.497Z</lastmod>
-  </url>
-  <url>
-    <loc>https://esipfed.github.io/esipDMP/sections/roles_responsibilities.html</loc>
-    <lastmod>2025-06-09T17:26:56.497Z</lastmod>
-  </url>
-  <url>
-    <loc>https://esipfed.github.io/esipDMP/index.html</loc>
-    <lastmod>2025-06-09T17:26:56.496Z</lastmod>
-  </url>
-  <url>
     <loc>https://esipfed.github.io/esipDMP/about.html</loc>
-    <lastmod>2025-06-09T17:26:56.496Z</lastmod>
+    <lastmod>2025-06-13T17:00:18.914Z</lastmod>
   </url>
   <url>
     <loc>https://esipfed.github.io/esipDMP/sections/standardization.html</loc>
-    <lastmod>2025-06-09T17:26:56.497Z</lastmod>
-  </url>
-  <url>
-    <loc>https://esipfed.github.io/esipDMP/sections/pids.html</loc>
-    <lastmod>2025-06-09T17:26:56.497Z</lastmod>
+    <lastmod>2025-06-13T17:00:18.916Z</lastmod>
   </url>
   <url>
     <loc>https://esipfed.github.io/esipDMP/sections/outputs.html</loc>
-    <lastmod>2025-06-09T17:26:56.497Z</lastmod>
+    <lastmod>2025-06-13T17:00:18.915Z</lastmod>
+  </url>
+  <url>
+    <loc>https://esipfed.github.io/esipDMP/sections/pids.html</loc>
+    <lastmod>2025-06-13T17:00:18.915Z</lastmod>
+  </url>
+  <url>
+    <loc>https://esipfed.github.io/esipDMP/sections/access.html</loc>
+    <lastmod>2025-06-13T17:00:18.915Z</lastmod>
+  </url>
+  <url>
+    <loc>https://esipfed.github.io/esipDMP/sections/roles_responsibilities.html</loc>
+    <lastmod>2025-06-13T17:00:18.916Z</lastmod>
+  </url>
+  <url>
+    <loc>https://esipfed.github.io/esipDMP/sections/data_management.html</loc>
+    <lastmod>2025-06-13T17:00:18.915Z</lastmod>
+  </url>
+  <url>
+    <loc>https://esipfed.github.io/esipDMP/index.html</loc>
+    <lastmod>2025-06-13T17:00:18.915Z</lastmod>
   </url>
 </urlset>
