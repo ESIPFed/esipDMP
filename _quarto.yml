@@ -68,6 +68,9 @@ format:
     code-copy: true
     css: assets/styles/styles.css
     toc: true
+    toc-location: left
+    toc-title: ""
+    toc-depth: 4
 
 filters:
   - quarto
