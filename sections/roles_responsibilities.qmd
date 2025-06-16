@@ -2,6 +2,16 @@
 title: "Roles and Responsibilities"
 ---
 
+# Personnel
+
+## Principle Investigator 
+
+-   Ensures the DMP is followed by the research team.
+
+    -   e.g: [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link):
+
+        -   Lead PI will ensure compliance to this data management plan.
+
 ## Data Manager
 
 -   Oversees data management practices.
@@ -34,17 +44,18 @@ title: "Roles and Responsibilities"
 
 ## Point of Contact for the DMP
 
--   Primary individual responsible for DMP updates and communication.
+-   Serves as the primary communication person for the DMP
 
--   Ensures the DMP is followed by the research team.
+-   Primary individual responsible for DMP updates.
 
-    -   e.g: [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link):
+## Third Party/Contractor/Consultant
 
-        -   Lead PI will ensure compliance to this data management plan.
+-   External party that contributes to the project
 
--   Details of external parties involved in data management.
 
-## Plan for Personnel Turnover/Transfer
+# Plan for Personnel Turnover/Transfer
 
 -   Procedures for transferring responsibilities in case of personnel changes.
+
 -   Documentation of roles and access permissions.
+
