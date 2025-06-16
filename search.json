@@ -111,7 +111,17 @@
     "href": "sections/roles_responsibilities.html",
     "title": "Roles and Responsibilities",
     "section": "",
-    "text": "Oversees data management practices.\nEnsures compliance with the Data Management Plan (DMP).\n\ne.g.:\n\nMullineaux #2453\n\nObservations at seafloor: All PIs\nImagery at seafloor - PI3 and PI4\nPhysical sample cataloging:\n\nPI1 will obtain IGSNs for rock samples; PI2 will provide unique\n\nAnimal specimen identifiers:\n\nEach PI will catalog his/her respective subsamples associated to identifier, when applicable.\n\nData for animals - PI-3 and PI-4\nData for microbes - PI-1 and PI-2\nData for minerals - PI-3\nDerived data from integrating: All PIs",
+    "text": "Ensures the DMP is followed by the research team.\n\ne.g: Mullineaux #2453:\n\nLead PI will ensure compliance to this data management plan.\n\n\n\n\n\n\n\nOversees data management practices.\nEnsures compliance with the Data Management Plan (DMP).\n\ne.g.:\n\nMullineaux #2453\n\nObservations at seafloor: All PIs\nImagery at seafloor - PI3 and PI4\nPhysical sample cataloging:\n\nPI1 will obtain IGSNs for rock samples; PI2 will provide unique\n\nAnimal specimen identifiers:\n\nEach PI will catalog his/her respective subsamples associated to identifier, when applicable.\n\nData for animals - PI-3 and PI-4\nData for microbes - PI-1 and PI-2\nData for minerals - PI-3\nDerived data from integrating: All PIs\n\n\n\n\n\n\n\n\nServes as the primary communication person for the DMP\nPrimary individual responsible for DMP updates.\n\n\n\n\n\nExternal party that contributes to the project",
+    "crumbs": [
+      "Roles and Responsibilities"
+    ]
+  },
+  {
+    "objectID": "sections/roles_responsibilities.html#principle-investigator",
+    "href": "sections/roles_responsibilities.html#principle-investigator",
+    "title": "Roles and Responsibilities",
+    "section": "",
+    "text": "Ensures the DMP is followed by the research team.\n\ne.g: Mullineaux #2453:\n\nLead PI will ensure compliance to this data management plan.",
     "crumbs": [
       "Roles and Responsibilities"
     ]
@@ -130,18 +140,18 @@
     "objectID": "sections/roles_responsibilities.html#point-of-contact-for-the-dmp",
     "href": "sections/roles_responsibilities.html#point-of-contact-for-the-dmp",
     "title": "Roles and Responsibilities",
-    "section": "Point of Contact for the DMP",
-    "text": "Point of Contact for the DMP\n\nPrimary individual responsible for DMP updates and communication.\nEnsures the DMP is followed by the research team.\n\ne.g: Mullineaux #2453:\n\nLead PI will ensure compliance to this data management plan.\n\n\nDetails of external parties involved in data management.",
+    "section": "",
+    "text": "Serves as the primary communication person for the DMP\nPrimary individual responsible for DMP updates.",
     "crumbs": [
       "Roles and Responsibilities"
     ]
   },
   {
-    "objectID": "sections/roles_responsibilities.html#plan-for-personnel-turnovertransfer",
-    "href": "sections/roles_responsibilities.html#plan-for-personnel-turnovertransfer",
+    "objectID": "sections/roles_responsibilities.html#third-partycontractorconsultant",
+    "href": "sections/roles_responsibilities.html#third-partycontractorconsultant",
     "title": "Roles and Responsibilities",
-    "section": "Plan for Personnel Turnover/Transfer",
-    "text": "Plan for Personnel Turnover/Transfer\n\nProcedures for transferring responsibilities in case of personnel changes.\nDocumentation of roles and access permissions.",
+    "section": "",
+    "text": "External party that contributes to the project",
     "crumbs": [
       "Roles and Responsibilities"
     ]
