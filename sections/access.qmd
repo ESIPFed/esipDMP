@@ -2,11 +2,14 @@
 title: "Access to Research Outputs"
 ---
 
-## What Does Access Look Like?
-
 ### Access
 
-#### Sharing
+*Describe how access to the research outputs will be provided (e.g., by publishing with a public domain license in a robust repository).  *
+
+### Sharing
+
+*Describe any requirements to share the data from the project. Such requirements might come from a funder, participating organization, government agency, or other relevant entity. *
+
 -  Mechanisms for sharing outputs (e.g., repositories, cloud storage).
 
 ::: {.callout-note}
@@ -14,7 +17,9 @@ title: "Access to Research Outputs"
 *To increase accessibility to project data and the dissemination of our research findings—particularly among scientists from developing countries—we will make every effort to publish our results as open-access articles or within open-access journals.*
 :::
 
-#### Archive(s)
+### Archive(s)
+
+*Describe the steps your project team will take to secure long-term availability of project data, and research outputs. This might include publishing data in robust repositories with strong sustainability plans, archiving back-up copies of data in long-term institutional cloud storage, including data maintenance in future funding requests and institutional budgets, and creating a long-term plan to ensure data remain available as staff change and data needs change.  *
 
 -  Where the data will be stored (e.g., institutional repository, public archive).
 
@@ -27,10 +32,11 @@ title: "Access to Research Outputs"
 *Sequence data will be archived at NCBI GenBank or SRA, code will be archived on GitHub and processed data files (e.g., vcf files) will be deposited in Dryad. BCO-DMO ensures that the data are archived properly at the appropriate National Data Archive for long-term archive preservation.*
 :::
 
-#### Provisions/Protection
--  Measures to protect sensitive or confidential data (e.g., encryption, access controls).
 
-#### Timeline for Availability/Access
+### Timeline for Availability/Access
+
+*Describe any timelines for making data available that are mandated (e.g., by a funder) or planned by the project leads.  *
+
 -  When will products be shared or published (e.g., immediately, after embargo period).
 
 ::: {.callout-note}
@@ -42,7 +48,11 @@ title: "Access to Research Outputs"
 ## BCO-DMO: [Greer](https://drive.google.com/file/d/1OTn2YkAbrXQBt3CN2hL4ras1sewSg5Vi/view?usp=share_link)
 *Once the data have been collected and quality controlled, we will ensure all data are publicly available within two years. In general, we do not intend to impose any data embargos, with the exception of student generated data that will be used for the completion of student theses and publications.*
 :::
-#### License
+
+### License
+
+*Describe any licensing requirements from funders, participating organizations, or government agencies, including a species license (e.g. [CC-BY](https://creativecommons.org/licenses/by/4.0/deed.en)) or data use agreement.  *
+
 -  Licensing terms (e.g., Creative Commons, MIT License).
 
 ::: {.callout-warning}
@@ -58,7 +68,10 @@ title: "Access to Research Outputs"
 *Our data access/data use policy is the Creative Commons license CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). The user is free to use and adapt the data while giving appropriate credit without any other restrictions. In our data use policy, we make a few additional recommendations for collaboration and suggest that users contact the appropriate MCR personnel if they have any questions or concerns about the data, but these recommendations do not change the general license text.*
 :::
 
-#### Restrictions / Confidentiality / Proprietary Business Info
+### Restrictions / Confidentiality / Proprietary Business Info / Protection provisions
+
+*Describe any restrictions, embargoes, or other methods that will be applied to the data and research outputs, the methods for applying them, and for how long they will be applied. *
+
 -  Any limitations on access due to confidentiality or proprietary concerns.
 
 ::: {.callout-note}

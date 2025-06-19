@@ -2,28 +2,25 @@
 title: "Research Outputs"
 ---
 
-Research outputs include a variety of materials and data generated during the research process. These may include:
+## Type of Research Output
 
-### Samples
--  Physical samples (e.g., biological, chemical, geological)
+*Research outputs include a variety of data and materials generated during the research process. Given the planned project and data collection, provide the most accurate estimate possible of the types of research outputs. This information will help calculate data/sample storage needs, and may help determine where the data can be published or archived.  *
 
-::: {.callout-note}
-## BCO-DMO: [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link)
-*Physical samples will include animals, rocks, and water column samples. Rocks and animal specimens for which we extract gut contents will be assigned unique sample identifiers, important for provenance for subsamples to be analyzed for microbes.*
-:::
+### Collections
+-  Curated sets of samples or data
 
--   Digital samples (e.g., scanned images, 3D models)
-    
 ### Data
 -  Raw data
 -  Processed data
 -  Metadata
 
-### Collections
--  Curated sets of samples or data
+### Documents/Posters/Pre-prints/Publications/Videos
+-  Research papers, conference posters, pre-prints, and multimedia content
 
-### Software
--  Code, scripts, or applications developed for analysis
+::: {.callout-note}
+## BCO-DMO: [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link)
+*Imagery at the seafloor will include NDSF vehicle imagery (e.g., 4K video) and PI-provided imagery (e.g., time-lapse still).*
+:::
 
 ### Materials
 -  Lab protocols, reagents, or experimental setups
@@ -36,60 +33,23 @@ Research outputs include a variety of materials and data generated during the re
 *Output from model simulations, which will include both physical (T, S, velocities) and biogeochemical (tracer, rates, fluxes) variables. The raw output will be post-processed and analyzed for presentation at meetings and for publication in scientific journals. For model output from the main set of simulations (Table 1 in the proposal), standard model fields (e.g. physical and biogeochemical tracers, current velocities, and the main biogeochemical rates) at monthly resolution will be provided to, and made available through, BCO-DMO and NOAA NCEI in standard NetCDF format.*
 :::
 
-### Documents/Posters/Pre-prints/Publications/Videos
--  Research papers, conference posters, pre-prints, and multimedia content
+### Samples
+-  Physical samples (e.g., biological, chemical, geological)
 
 ::: {.callout-note}
 ## BCO-DMO: [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link)
-*Imagery at the seafloor will include NDSF vehicle imagery (e.g., 4K video) and PI-provided imagery (e.g., time-lapse still).*
+*Physical samples will include animals, rocks, and water column samples. Rocks and animal specimens for which we extract gut contents will be assigned unique sample identifiers, important for provenance for subsamples to be analyzed for microbes.*
 :::
 
-::: {.callout-tip}
-## BCO-DMO: [Alexander](https://drive.google.com/file/d/1xdAynJgxfdbvASA60xuP4oKib8gxm5Nv/view?usp=share_link)
+-   Digital samples (e.g., scanned images, 3D models)
+    
+### Software
+-  Code, scripts, or applications developed for analysis
 
-# Type of Research Output
 
-Research outputs include a variety of materials and data generated during the research process. These may include:
+## Number and Size of Research Outputs
 
--   **Collections**
-    -   Curated sets of samples or data
--   **Data**
-    -   Raw data
-    -   Processed data
-    -   Metadata
--   **Documents/Posters/Pre-prints/Publications/Videos**
-    -   Research papers, conference posters, pre-prints, and multimedia content
-        -   e.g.:
-            -   [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link)
-                -   Imagery at the seafloor will include NDSF vehicle imagery (e.g., 4K video) and PI-provided imagery (e.g., time-lapse still).
--   **Materials**
-    -   Lab protocols, reagents, or experimental setups
--   **Models**
-    -   Statistical, mathematical, or computational models
-        -   e.g:
-            -   BCO-DMO: [Bianchi](https://drive.google.com/file/d/1pR_HCs9ayvXZXwkAENdRYJ9utfwax6-B/view?usp=share_link)
-                -   Output from model simulations, which will include both physical (T, S, velocities) and biogeochemical (tracer, rates, fluxes) variables. The raw output will be post-processed and analyzed for presentation at meetings and for publication in scientific journals. For model output from the main set of simulations (Table 1 in the proposal), standard model fields (e.g. physical and biogeochemical tracers, current velocities, and the main biogeochemical rates) at monthly resolution will be provided to, and made available through, BCO-DMO and NOAA NCEI in standard NetCDF format.
--   **Samples**
-    -   Physical samples (e.g., biological, chemical, geological)
-        -   e.g.:
-            -   [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link) - Physical samples will include animals, rocks, and water column samples. Rocks and animal specimens for which we extract gut contents will be assigned unique sample identifiers, important for provenance for subsamples to be analyzed for microbes.
-    -   Digital samples (e.g., scanned images, 3D models)
--   **Software**
-    -   Code, scripts, or applications developed for analysis
-
-::: callout-tip
-### General example
-
-***Note their description of data types, number of experiments performed, file types generated, and repositories for submission.***
-
-*Description of data types, number of experiments performed, file types generated, and repositories for submission*
-
--  **Genetic sequencing**: *mRNA and DNA sequencing from E. huxleyi cultures grown in the lab will be collected. Sequencing will be performed at the Columbia Genome Center (New York, NY). All raw sequence data will be deposited in the short-read archive (SRA) through the NCBI. Assembled genomes will be deposited under the same project number through the NCBI's Assembly database. Assembled transcriptomes will be deposited on the NCBI's Transcriptome Shotgun Assembly (TSA) database. Associated annotation files will be uploaded with the genome and transcriptome files to the appropriate database. File types: Short-read archive (.sra), raw sequencing files (.fastq), assembled fasta files (.fasta), annotation files (.gff). Repository: NCBI; accession numbers will be provided to BCO-DMO.*
--  **Physiological experiment data**: *Physiological experiments carried out on 10 different E. huxleyi strains will be conducted in the lab. Physiological and chemical parameters of the cultures will be collected over time including: growth rate, cell size, Fv/Fm, chlorophyll, particulate organic carbon, particulate inorganic carbon, dissolved nitrogen and phosphorus, and particulate nitrogen and phosphorus. File types: csv files. Repository: BCO-DMO.*
--  **Bioinformatic pipelines**: *Analysis of all genetic sequencing data will be done through the construction of reproducible pipelines designed in Snakemake. These pipelines will be made public on GitHub and archived and provided a doi through Zenodo. Repository: Zenodo; doi will be provided to BCO-DMO.*
-:::
-
-# Number and Size of Research Outputs
+*Given the planned project and data collection, provide the most accurate estimate possible of the types of research outputs. This information will help calculate data/sample storage needs, and may help determine where the data can be published or archived. *
 
 ### Number of files, samples, collections, etc.
 -  Estimated count of each type of output.
@@ -103,9 +63,23 @@ Research outputs include a variety of materials and data generated during the re
 *By mid-year 6 of our project, our IM team stores \~60 TB of data (\~55 on premises and \~5 cloud). For WHOI’s institutional research data storage (RDS) on premises, we have \>40 TB to share within WHOI a subset of our towed plankton imaging data, 12 TB for a subset of our coupled physical-biological model output, and 1 TB for (low-volume) data products including those served by our web-based REST API. However, additional storage is required for plankton imagery (e.g., PI Sosik’s network attached storage serving \~10 TB publicly available IFCB data), acoustic data collected by vessels and Stingray towed vehicle, and physical and coupled biological-physical model output; these and some other high-volume data types (e.g., high throughput sequencing data) are necessarily managed by PIs*.
 :::
 
-# Metadata Critical for Data Interpretation and Reuse
+::: callout-tip
+### General example
 
-### Sensor metadata
+***Note their description of data types, number of experiments performed, file types generated, and repositories for submission.***
+
+*Description of data types, number of experiments performed, file types generated, and repositories for submission*
+
+-  **Genetic sequencing**: *mRNA and DNA sequencing from E. huxleyi cultures grown in the lab will be collected. Sequencing will be performed at the Columbia Genome Center (New York, NY). All raw sequence data will be deposited in the short-read archive (SRA) through the NCBI. Assembled genomes will be deposited under the same project number through the NCBI's Assembly database. Assembled transcriptomes will be deposited on the NCBI's Transcriptome Shotgun Assembly (TSA) database. Associated annotation files will be uploaded with the genome and transcriptome files to the appropriate database. File types: Short-read archive (.sra), raw sequencing files (.fastq), assembled fasta files (.fasta), annotation files (.gff). Repository: NCBI; accession numbers will be provided to BCO-DMO.*
+-  **Physiological experiment data**: *Physiological experiments carried out on 10 different E. huxleyi strains will be conducted in the lab. Physiological and chemical parameters of the cultures will be collected over time including: growth rate, cell size, Fv/Fm, chlorophyll, particulate organic carbon, particulate inorganic carbon, dissolved nitrogen and phosphorus, and particulate nitrogen and phosphorus. File types: csv files. Repository: BCO-DMO.*
+-  **Bioinformatic pipelines**: *Analysis of all genetic sequencing data will be done through the construction of reproducible pipelines designed in Snakemake. These pipelines will be made public on GitHub and archived and provided a doi through Zenodo. Repository: Zenodo; doi will be provided to BCO-DMO.*
+:::
+
+## Metadata Critical for Data Interpretation and Reuse
+
+*Describe the accompanying information that is needed to interpret the data, such as effort or calibration information. Describe what other data will be shared to enable interpretation of the data. This may include metadata (e.g., about sensors or other equipment), temporal and spatial details, or effort data (e.g., from observational surveys). *
+
+### Sensor / instrument metadata
 -  Information about instruments or sensors used to collect data.
 
 ::: {.callout-note}

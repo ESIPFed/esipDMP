@@ -2,24 +2,30 @@
 title: "Roles and Responsibilities"
 ---
 
-# Personnel
+*Thoughtfully deciding who will fill the roles and have the responsibilities for data sharing and stewarding earth science data is critical. While all persons are expected to practice good data stewardship, this section asks for the contact info for the key project personnel [name, ORCID, affiliation, ROR, contact(email, phone)]. In addition, this section asks what plans are in place for handling turnover in personnel while maintaining the key roles and responsibilities.  *
 
-## Principle Investigator 
+## Personnel
+
+*The key roles are included below: Principal Investigator, Data Manager, Point of Contact for the DMP.  Other roles that could be included here include: Data Provider, Data Collector, Data Analyst, Data Engineer, GIS Analyst, Contractor, Consultant.*
+
+### Principle Investigator 
 
 -   Ensures the DMP is followed by the research team.
 
-    -   e.g: [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link):
+::: {.callout-note}
+### BCO-DMO: [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link) *Lead PI will ensure compliance to this data management plan.*
+:::  
 
-        -   Lead PI will ensure compliance to this data management plan.
-
-## Data Manager
+### Data Manager
 
 -   Oversees data management practices.
 
--   Ensures compliance with the Data Management Plan (DMP).
+-   May ensure compliance with the Data Management Plan (DMP).
+
+-   May be the primary individual responsible for DMP updates.
 
 ::: {.callout-note}
-## BCO-DMO: [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link)
+### BCO-DMO: [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link)
 
 -  *Observations at seafloor: All PIs*
 
@@ -42,14 +48,14 @@ title: "Roles and Responsibilities"
 -  *Derived data from integrating: All PIs*
 :::
 
-## Point of Contact for the DMP
+### Point of Contact for the DMP
 
 -  Primary individual responsible for DMP updates and communication.
 
--  Ensures the DMP is followed by the research team.
+-  May ensure the DMP is followed by the research team.
 
 ::: {.callout-note}
-## BCo-DMO: [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link):
+### BCo-DMO: [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link):
 
 -  *Lead PI will ensure compliance to this data management plan.*
 
@@ -58,14 +64,15 @@ title: "Roles and Responsibilities"
 
 -   Serves as the primary communication person for the DMP
 
--   Primary individual responsible for DMP updates.
+-   May be the primary individual responsible for DMP updates.
 
-## Third Party/Contractor/Consultant
+
+### Third Party/Contractor/Consultant
 
 -   External party that contributes to the project
 
 
-# Plan for Personnel Turnover/Transfer
+## Plan for Personnel Turnover/Transfer
 
 -  Procedures for transferring responsibilities in case of personnel changes.
 
