@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.31">
+<meta name="generator" content="quarto-1.7.32">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -37,9 +37,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-8ef56b68f8fa1e9d2ba328e99e439f80.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-2fef5ea3f8957b3e4ecc936fc74692ca.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-336be6ae391cc3facf2dbf6996649154.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
@@ -329,6 +329,9 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#how-will-it-be-standardized" id="toc-how-will-it-be-standardized" class="nav-link active" data-scroll-target="#how-will-it-be-standardized">How Will It Be Standardized?</a>
   <ul>
   <li><a href="#data-metadata-formats" id="toc-data-metadata-formats" class="nav-link" data-scroll-target="#data-metadata-formats">Data / Metadata Formats</a></li>
+  </ul></li>
+  <li><a href="#naming-conventions-and-file-structures" id="toc-naming-conventions-and-file-structures" class="nav-link" data-scroll-target="#naming-conventions-and-file-structures">Naming conventions and file structures</a>
+  <ul>
   <li><a href="#standards" id="toc-standards" class="nav-link" data-scroll-target="#standards">Standards</a></li>
   <li><a href="#qaqc-methods" id="toc-qaqc-methods" class="nav-link" data-scroll-target="#qaqc-methods">QA/QC Methods</a></li>
   </ul></li>
@@ -367,63 +370,92 @@ ul.task-list li input[type="checkbox"] {
 <section id="data-metadata-formats" class="level3">
 <h3 class="anchored" data-anchor-id="data-metadata-formats">Data / Metadata Formats</h3>
 <ul>
-<li><p>Use of widely accepted formats (e.g., CSV, JSON, HDF5 for data; XML, JSON-LD for metadata).</p>
-<ul>
-<li><p>e.g.:</p>
-<ul>
-<li><p>BCO-DMO <a href="https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link">Mullineaux #2453</a></p>
-<ul>
-<li>Field observation data will be stored in flat ASCII files, which can be read easily by different software packages. Observational and experimental data from processed samples will be stored mainly as spreadsheets. Imagery from the seafloor will be stored in original resolution (this will be the biggest data volume in this project). Metadata will be prepared in accordance with BCO-DMO conventions (i.e.&nbsp;using the BCO-DMO metadata forms) and will include detailed descriptions of collection and analysis procedures.</li>
-</ul></li>
-</ul></li>
-</ul></li>
-<li><p>Consistent naming conventions and file structures.</p></li>
+<li>Use of widely accepted formats (e.g., CSV, JSON, HDF5 for data; XML, JSON-LD for metadata).</li>
 </ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+BCO-DMO: <a href="https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link">Mullineaux #2453</a>
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><em>Field observation data will be stored in flat ASCII files, which can be read easily by different software packages. Observational and experimental data from processed samples will be stored mainly as spreadsheets. Imagery from the seafloor will be stored in original resolution (this will be the biggest data volume in this project). Metadata will be prepared in accordance with BCO-DMO conventions (i.e.&nbsp;using the BCO-DMO metadata forms) and will include detailed descriptions of collection and analysis procedures.</em></p>
+</div>
+</div>
 </section>
+</section>
+<section id="naming-conventions-and-file-structures" class="level2">
+<h2 class="anchored" data-anchor-id="naming-conventions-and-file-structures">Naming conventions and file structures</h2>
 <section id="standards" class="level3">
 <h3 class="anchored" data-anchor-id="standards">Standards</h3>
 <ul>
-<li>Adherence to domain-specific standards (e.g., Darwin Core for biodiversity data, DICOM for medical imaging).
-<ul>
-<li>e.g.:
-<ul>
-<li>BCO-DMO: <a href="https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link">Mullineaux #2453</a>
-<ul>
-<li>Specifically for animals: We will utilize the World Register of Marine Species (WoRMS) taxonomic classification. We will standardize to Darwin Core format to provide occurrence data to OBIS and GBIF. Specifically for microbes: Genetic sequence data will be prepared in accordance with the minimum information about a marker gene sequence (MIMARKS) and about a metagenome sequence (MIMS) developed by the Genomic Standards Consortium, with quality control screening of raw reads from 16S/18S rRNA sequencing and raw metagenomic sequences. Specifically for minerals: Rock samples will be assigned International Geo Sample Numbers (IGSN) through SESAR (System for Earth Sample Registration)</li>
-</ul></li>
-</ul></li>
-</ul></li>
-<li>Compliance with FAIR principles (Findable, Accessible, Interoperable, Reusable).
-<ul>
-<li>e.g.:
-<ul>
-<li>LTER <a href="https://drive.google.com/file/d/1-kTwz8I46snB0tfNk4U8bk8suVjF8xjG/view?usp=drive_link">Sosik</a>
-<ul>
-<li>To contribute FAIR (Findable, Accessible, Interoperable, Reusable) data products to DataONE and other community repositories, our IM team uses non-proprietary data formats, standardizes metadata, and promotes the use of controlled vocabularies.</li>
-</ul></li>
-</ul></li>
-</ul></li>
+<li>Adherence to domain-specific standards (e.g., Darwin Core for biodiversity data, DICOM for medical imaging).</li>
 </ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+BCO-DMO: <a href="https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link">Mullineaux #2453</a>
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><em>Specifically for animals: We will utilize the World Register of Marine Species (WoRMS) taxonomic classification. We will standardize to Darwin Core format to provide occurrence data to OBIS and GBIF. Specifically for microbes: Genetic sequence data will be prepared in accordance with the minimum information about a marker gene sequence (MIMARKS) and about a metagenome sequence (MIMS) developed by the Genomic Standards Consortium, with quality control screening of raw reads from 16S/18S rRNA sequencing and raw metagenomic sequences. Specifically for minerals: Rock samples will be assigned International Geo Sample Numbers (IGSN) through SESAR (System for Earth Sample Registration)</em></p>
+</div>
+</div>
+<ul>
+<li>Compliance with FAIR principles (Findable, Accessible, Interoperable, Reusable).</li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+LTER: <a href="https://drive.google.com/file/d/1-kTwz8I46snB0tfNk4U8bk8suVjF8xjG/view?usp=drive_link">Sosik</a>
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><em>To contribute FAIR (Findable, Accessible, Interoperable, Reusable) data products to DataONE and other community repositories, our IM team uses non-proprietary data formats, standardizes metadata, and promotes the use of controlled vocabularies.</em></p>
+</div>
+</div>
 </section>
 <section id="qaqc-methods" class="level3">
 <h3 class="anchored" data-anchor-id="qaqc-methods">QA/QC Methods</h3>
 <ul>
 <li>Implementation of quality assurance and quality control processes.</li>
-<li>Regular audits and validation checks to ensure data integrity.
-<ul>
-<li>e.g.:
-<ul>
-<li>BCO-DMO: <a href="https://drive.google.com/file/d/1xJ8EiH436Fr95XrIEsvyYHoQv0mErSwB/view?usp=share_link">Saito</a>
-<ul>
-<li>Quality flags will be assigned according to the ODS IODE Quality Flag scheme (IOC Manuals and Guides, 54, volume 3; [http://www.iode.org/mg54\_3](http://www.iode.org/mg54_3) ).</li>
-</ul></li>
-<li>IOOS: <a href="https://sccoos.org/">SCCOOS</a>
-<ul>
-<li>For sources that do not provide quality flags, the SCCOOS DMAC Sub-System runs QARTOD tests after ingesting observation data. Tests are run using the open-source <a href="https://github.com/ioos/ioos_qc">ioos\_qc library</a>, which implements a suite of QARTOD tests as well as other quality control algorithms. The quality test code and test thresholds are documented and publicly available through the CalOOS Data Portal. Links to the ioos\_qc methods used are available both within data charts and on sensor pages within the CalOOS Data Portal. Thresholds used for each test are also viewable on sensor pages and users are linked to the test code in GitHub.</li>
-</ul></li>
-</ul></li>
-</ul></li>
+<li>Regular audits and validation checks to ensure data integrity.</li>
 </ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+BCO-DMO: <a href="https://drive.google.com/file/d/1xJ8EiH436Fr95XrIEsvyYHoQv0mErSwB/view?usp=share_link">Saito</a>
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><em>Quality flags will be assigned according to the ODS IODE Quality Flag scheme (IOC Manuals and Guides, 54, volume 3; <a href="http://www.iode.org/mg54_3">http://www.iode.org/mg54_3</a></em>.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+IOOS: <a href="https://sccoos.org/">SCCOOS</a>
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><em>For sources that do not provide quality flags, the SCCOOS DMAC Sub-System runs QARTOD tests after ingesting observation data. Tests are run using the open-source <a href="https://github.com/ioos/ioos_qc">ioos_qc library</a>, which implements a suite of QARTOD tests as well as other quality control algorithms. The quality test code and test thresholds are documented and publicly available through the CalOOS Data Portal. Links to the ioos_qc methods used are available both within data charts and on sensor pages within the CalOOS Data Portal. Thresholds used for each test are also viewable on sensor pages and users are linked to the test code in GitHub.</em></p>
+</div>
+</div>
 
 
 </section>
