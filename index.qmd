@@ -1,6 +1,32 @@
 ---
-title: "esipDMP Primer"
+title: "Data Management: Planning for success"
+subtitle: "Welcome to the [Earth Science Information Partners'](https://www.esipfed.org/) data management planning resource."
 slug: index
 ---
 
-This website is actively in construction. Please check back soon for more information.
+****
+
+Good data management requires planning, and most funding agencies require structured, comprehensive details describing how research outputs, like data, software, samples, etc. will be collected, stored, shared, and archived. Otherwise known as “DMPs”, or Data Management Plans. Note that
+different agencies may have slightly different acronyms for DMPs
+(see acronym list for more examples).
+
+
+This resource provides some examples of DMPs from ESIP-relevant funding agencies (listed below), with the goal of providing **1\)** overview of the sections/topics that should be covered in a DMP, **2\)** brief description of best practices for those sections/topics, as generated during an ESIP 2025 Winter session, and **3\)** examples of DMPs from proposals funded by ESIP-relevant funding agencies.
+
+**ESIP-relevant funding agencies represented (so far) include:**
+
+* National Science Foundation ([NSF](https://www.nsf.gov/funding/data-management-plan))   
+  * Arctic Data Center (ADC)  
+  * Biological and Chemical Oceanography Data Management Office (BCO-DMO)  
+  * Long Term Ecological Research (LTER)  
+* National Aeronautics and Space Administration ([NASA](https://science.nasa.gov/researchers/sara/faqs/osdmp/)  
+* National Oceanic and Atmospheric Administration (NOAA)   
+  * U.S. Integrated Ocean Observing System ([IOOS](https://ioos.noaa.gov/data/data-standards/data-management-planning-coordination/)
+
+<!-- A quick overview on how to use this resource: TDB -->
+
+<!-- A quick overview on how to contribute to this resource: TDB -->
+
+One resource to help with your DMP generation is the DMPTool, provided by the California Digital Library. [DMPTool](https://dmptool.org) provides templates from a number of agencies, including those listed above, examples of published DMPs, and allows you to request a DOI for your DMP (highly recommended\!).  DMPTool is also working on creating machine-actionable DMPs (ma-DMPs), which will greatly improve the ability of funders and publishers to better track the impact of the research outputs from your science, as described in your DMP\! Stay tuned for exciting advancements in this area, and [read](https://blog.dmptool.org/2025/04/03/working-toward-a-common-standard-api-for-machine-actionable-dmps/) here for more information.
+
+This resource was created as a working group partnership between the [ESIP Marine Data Cluster](https://www.esipfed.org/collaboration-areas/marine-data/) and the [ESIP Data Stewardship Committee](https://www.esipfed.org/collaboration-areas/data-stewardship/). We are grateful to our ESIP Winter 2025 session speakers and participants for your help generating the best practices and ideas captured in this resource. We would also like to thank the Research Data Alliance (RDA) [DMP Common Standards Working Group](https://www.rd-alliance.org/groups/dmp-common-standards-wg/members/all-members/) for their guidance and continued efforts to a
