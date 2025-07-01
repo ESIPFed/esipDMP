@@ -6,6 +6,8 @@ title: "Access to Research Outputs"
 
 *Describe how access to the research outputs will be provided (e.g., by publishing with a public domain license in a robust repository).  *
 
+See DMP Common Standard: [dmp.dataset.distribution](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#distribution_table) 
+
 ### Sharing
 
 *Describe any requirements to share the data from the project. Such requirements might come from a funder, participating organization, government agency, or other relevant entity. *
