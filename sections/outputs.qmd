@@ -6,6 +6,8 @@ title: "Research Outputs"
 
 *Research outputs include a variety of data and materials generated during the research process. Given the planned project and data collection, provide the most accurate estimate possible of the types of research outputs. This information will help calculate data/sample storage needs, and may help determine where the data can be published or archived.  *
 
+See DMP Common Standard: [dmp.dataset](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_table)
+
 ### Collections
 -  Curated sets of samples or data
 
@@ -55,6 +57,9 @@ title: "Research Outputs"
 -  Estimated count of each type of output.
 
 ### Size of each file, sample, etc.
+
+See DMP Common Standard: [dmp.dataset.distribution.byte_size](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#distribution_byte_size)
+
 -  File sizes (e.g., MB, GB, TB) for digital outputs.
     -  Physical dimensions or quantities for physical samples.
     
@@ -78,6 +83,8 @@ title: "Research Outputs"
 ## Metadata Critical for Data Interpretation and Reuse
 
 *Describe the accompanying information that is needed to interpret the data, such as effort or calibration information. Describe what other data will be shared to enable interpretation of the data. This may include metadata (e.g., about sensors or other equipment), temporal and spatial details, or effort data (e.g., from observational surveys). *
+
+See DMP Common Standard: [dmp.dataset.metadata](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#metadata_table)
 
 ### Sensor / instrument metadata
 -  Information about instruments or sensors used to collect data.
