@@ -64,9 +64,12 @@ format:
     theme:
       light: cosmo
       dark: [cosmo, assets/styles/theme-dark.scss]
+    css: assets/styles/styles.css
     code-background: true
     code-copy: true
-    css: assets/styles/styles.css
+    highlight-style: github
+    linestretch: 1.25
+    fontsize: 14pt
     toc: true
     toc-location: left
     toc-title: ""
