@@ -8,6 +8,8 @@ title: "Standardization of Data and Metadata"
 
 ### Formats
 
+See DMP Common Standard: [dmp.dataset.distribution.format](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#distribution_format)  
+
 -   Use of widely accepted formats (e.g., CSV, JSON, HDF5 for data; XML, JSON-LD for metadata).
 
 ::: {.callout-note}
@@ -32,6 +34,8 @@ title: "Standardization of Data and Metadata"
 :::
 
 ## QA/QC Methods
+
+See DMP Common Standard: [dmp.dataset.data_quality_assurance](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_quality_assurance)  
 
 -  Implementation of quality assurance and quality control processes.
 -  Regular audits and validation checks to ensure data integrity.
