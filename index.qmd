@@ -40,7 +40,7 @@ This resource was created as a working group partnership between the [ESIP Marin
 ---
 ### How to submit feedback / suggestions via GitHub issues 
 
-Navigate to out [issues page](https://github.com/ESIPFed/esipDMP/issues) and open an issue related to your feedback. **This requires an active GitHub account**.
+Navigate to our [issues page](https://github.com/ESIPFed/esipDMP/issues) and open an issue related to your feedback. **This requires an active GitHub account**.
 
 #### Types of issues include:
 - Non-trivial revision - larger revisions to content or concepts
