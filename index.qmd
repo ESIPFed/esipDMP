@@ -6,7 +6,7 @@ slug: index
 
 ****
 :::{.callout-warning}
-**Disclaimer**: This resource is currently under development, and we welcome your feedback and suggestions\! (see below on how to submit feedback)
+**Disclaimer**: This resource is currently under development, and we welcome your feedback and suggestions! (see below on how to submit feedback)
 :::
 
 Good data management requires planning, and most funding agencies require structured, comprehensive details describing how research outputs, like data, software, samples, etc. will be collected, stored, shared, and archived. Otherwise known as “DMPs”, or Data Management Plans. Note that
