@@ -13,7 +13,9 @@ title: "Roles and Responsibilities"
 -   Ensures the DMP is followed by the research team.
 
 ::: {.callout-note}
-### BCO-DMO: [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link) *Lead PI will ensure compliance to this data management plan.*
+### BCO-DMO: [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link) 
+
+*Lead PI will ensure compliance to this data management plan.*
 :::  
 
 ### Data Manager
