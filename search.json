@@ -169,31 +169,21 @@
   {
     "objectID": "sections/data_management.html",
     "href": "sections/data_management.html",
-    "title": "Data Management",
+    "title": "Data Life Cycle",
     "section": "",
-    "text": "Comprehensive plan for managing research data throughout its lifecycle.",
+    "text": "Data management is having a comprehensive plan (a.k.a. DMP) that addresses each stage of the research data lifecycle.\nThe data lifecycle begins with data management planning!",
     "crumbs": [
-      "Data Management"
+      "Data Life Cycle"
     ]
   },
   {
-    "objectID": "sections/data_management.html#overview",
-    "href": "sections/data_management.html#overview",
-    "title": "Data Management",
-    "section": "",
-    "text": "Comprehensive plan for managing research data throughout its lifecycle.",
+    "objectID": "sections/data_management.html#footnotes",
+    "href": "sections/data_management.html#footnotes",
+    "title": "Data Life Cycle",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThe diagram and links are from Elixir Europe, which built a Research Data Management toolkit (RDMkit) that describes best practices and guidelines for managing data and making it FAIR (Findable, Accessible, Interoperable and Reusable). Details available at: RDMkit: The ELIXIR Research Data Management toolkit for Life Sciences↩︎",
     "crumbs": [
-      "Data Management"
-    ]
-  },
-  {
-    "objectID": "sections/data_management.html#key-components",
-    "href": "sections/data_management.html#key-components",
-    "title": "Data Management",
-    "section": "Key Components",
-    "text": "Key Components\n\nData Collection\n\nMethods and tools for data collection.\n\nData Storage\n\nSecure and scalable storage solutions.\n\nData Backup\n\nRegular backups to prevent data loss.\n\nData Archiving\n\nLong-term preservation of data in trusted repositories.\n\nData Sharing\n\nPolicies and platforms for sharing data with the broader community.\n\nData Retention\n\nGuidelines for retaining or disposing of data after project completion.",
-    "crumbs": [
-      "Data Management"
+      "Data Life Cycle"
     ]
   },
   {
