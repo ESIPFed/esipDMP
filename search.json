@@ -167,18 +167,18 @@
     ]
   },
   {
-    "objectID": "sections/data_management.html",
-    "href": "sections/data_management.html",
+    "objectID": "sections/data_lifecycle.html",
+    "href": "sections/data_lifecycle.html",
     "title": "Data Life Cycle",
     "section": "",
-    "text": "Data management is having a comprehensive plan (a.k.a. DMP) that addresses each stage of the research data lifecycle.\nThe data lifecycle begins with data management planning!",
+    "text": "Data management involves having a comprehensive plan (a.k.a. DMP) that addresses each stage of the research data lifecycle.\nThe data lifecycle begins with data management planning!",
     "crumbs": [
       "Data Life Cycle"
     ]
   },
   {
-    "objectID": "sections/data_management.html#footnotes",
-    "href": "sections/data_management.html#footnotes",
+    "objectID": "sections/data_lifecycle.html#footnotes",
+    "href": "sections/data_lifecycle.html#footnotes",
     "title": "Data Life Cycle",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nThe diagram and links are from Elixir Europe, which built a Research Data Management toolkit (RDMkit) that describes best practices and guidelines for managing data and making it FAIR (Findable, Accessible, Interoperable and Reusable). Details available at: RDMkit: The ELIXIR Research Data Management toolkit for Life Sciences↩︎",
