@@ -53,7 +53,7 @@ website:
         href: sections/roles_responsibilities.qmd
       - text: "Persistent Identifiers (PIDs)"
         href: sections/pids.qmd
-      - text: "Data Management"
+      - text: "Data Life Cycle"
         href: sections/data_management.qmd
       # - section: core-lessons/index.qmd
       #   contents:        
