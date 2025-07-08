@@ -2,20 +2,20 @@
 title: "Data Life Cycle"
 ---
 
-Data management is having a comprehensive plan (a.k.a. DMP) that addresses each stage of the research data lifecycle. 
+Data management involves having a comprehensive plan (a.k.a. DMP) that addresses each stage of the research data lifecycle. 
 
-*The data lifecycle begins with data management [planning](https://rdmkit.elixir-europe.org/planning)\!* 
+*The data lifecycle begins with data management [planning](https://rdmkit.elixir-europe.org/planning)!* 
 
 :::: {.columns}
 ::: {.column width="50%"}
 When creating your data management plan, consider these key components: 
 
-* **Collection** *\-* methods and tools  
-* **Processing** \- QA/QC, file formats, standards  
-* **Analysis** \- software, models, etc  
-* **Preservation** \- safety, integrity, accessibility, persistent identifiers  
-* **Sharing** \- policies, licensing, repository  
-* **Reuse** \- Metadata, provenance
+* **Collection** - methods and tools  
+* **Processing** - QA/QC, file formats, standards  
+* **Analysis** - software, models, etc  
+* **Preservation** - safety, integrity, accessibility, persistent identifiers  
+* **Sharing** - policies, licensing, repository  
+* **Reuse** - Metadata, provenance
 
 
 *Click on each section of the diagram[^1] to explore resources and tools that can help you manage your research data effectively.*
@@ -44,7 +44,7 @@ When creating your data management plan, consider these key components:
         .st0:hover,.st2:hover,.st3:hover,.st4:hover,.st5:hover,.st6:hover,.st7:hover {fill:#73757d;cursor: pointer;}
         text {pointer-events : none;}
         </style>
-        <a href="https://rdmkit.elixir-europe.org/planning" id="link-to-planning2" target="_top" title="planning">
+        <a href="https://rdmkit.elixir-europe.org/planning" id="link-to-planning" target="_top" title="planning">
         <g id="PlanPath2">
             <path class="st5" d="M144.4,31.6l-16.6,32.3c17.5,0.7,33.2,8.6,44,20.9l35.7-7l14.6-32.4C199.6,18.3,166,0.8,128.2,0L144.4,31.6z" />
             <path class="st1" d="M166.7,24.1c0.3-0.4,0.8-0.6,1.4-0.6c4.7,0,9.4,0,14.1,0c0.5,0,1,0.2,1.4,0.6c0.3,0.3,0.4,0.7,0.4,1.2
