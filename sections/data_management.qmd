@@ -73,7 +73,7 @@ When creating your data management plan, consider these key components:
             C212.3,109.4,213.1,108.1,213.8,106.8z" />
         </g>
         </a>
-        <a href="./processing" id="link-to-processing2" target="_top" title="processing">
+        <a href="https://rdmkit.elixir-europe.org/processing" id="link-to-processing2" target="_top" title="processing">
         <g id="ProcessPath2">
             <path class="st4" d="M211.7,165L184,141.6c-4.4,16.4-15.5,30.1-30.1,38.1l-1.1,36.3l28.3,21.5c31.9-16.2,56-45.6,65-81.1L211.7,165
             z" />
