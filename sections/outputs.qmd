@@ -63,7 +63,7 @@ title: "Research Outputs"
 *By mid-year 6 of our project, our IM team stores \~60 TB of data (\~55 on premises and \~5 cloud). For WHOI’s institutional research data storage (RDS) on premises, we have \>40 TB to share within WHOI a subset of our towed plankton imaging data, 12 TB for a subset of our coupled physical-biological model output, and 1 TB for (low-volume) data products including those served by our web-based REST API. However, additional storage is required for plankton imagery (e.g., PI Sosik’s network attached storage serving \~10 TB publicly available IFCB data), acoustic data collected by vessels and Stingray towed vehicle, and physical and coupled biological-physical model output; these and some other high-volume data types (e.g., high throughput sequencing data) are necessarily managed by PIs*.
 :::
 
-::: callout-tip
+::: {callout-note}
 ### General example
 
 ***Note their description of data types, number of experiments performed, file types generated, and repositories for submission.***

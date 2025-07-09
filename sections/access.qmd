@@ -55,17 +55,25 @@ title: "Access to Research Outputs"
 
 -  Licensing terms (e.g., Creative Commons, MIT License).
 
-::: {.callout-warning}
+::: {.callout-note}
 ## BCO–DMO: [Church](https://drive.google.com/file/d/1lFfmFJ0FRqvj4HQU6FX-QFne-2XYPQ6y/view?usp=share_link)
 *All data from this project are considered within the public domain for all not-for-profit uses and there will be no permission restrictions placed on use of the data.*
+:::
 
-**Authors use right language but do not explicitly declare the license.**
+:::{.commentbox}
+::::{.commentbox-header}
+:::::{.commentbox-icon}
+:::::
+Comments
+::::
+::::{.commentbox-body}
+**These authors use descriptive language but do not explicitly declare a license.  Data reuse terms would be clearer if the authors stated a license (e.g. [CC-BY](https://creativecommons.org/licenses/by/4.0/)).**
+::::
 :::
 
 ::: {.callout-note}
-
 ## [MCR-LTER](https://drive.google.com/file/d/1rNYVmb7wMWjaDMhHGMEFG5hsnr8yhz56/view?usp=share_link)
-*Our data access/data use policy is the Creative Commons license CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). The user is free to use and adapt the data while giving appropriate credit without any other restrictions. In our data use policy, we make a few additional recommendations for collaboration and suggest that users contact the appropriate MCR personnel if they have any questions or concerns about the data, but these recommendations do not change the general license text.*
+*Our data access/data use policy is the Creative Commons license CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/). The user is free to use and adapt the data while giving appropriate credit without any other restrictions. In our data use policy, we make a few additional recommendations for collaboration and suggest that users contact the appropriate MCR personnel if they have any questions or concerns about the data, but these recommendations do not change the general license text.*
 :::
 
 ### Restrictions / Confidentiality / Proprietary Business Info / Protection provisions
@@ -79,9 +87,18 @@ title: "Access to Research Outputs"
 *We do not expect that the data we will generate will require any exceptional arrangements due to questions of ethical restrictions or release of indigenous knowledge.*
 :::
 
-::: {.callout-warning}
+::: {.callout-note}
 ## BCO-DMO:  [Church](https://drive.google.com/file/d/1lFfmFJ0FRqvj4HQU6FX-QFne-2XYPQ6y/view?usp=share_link)
 *There are no ethical and privacy issues with these data. There are no human research subjects in our study. The dataset from this project will not be copyrighted.*
+:::
 
-**Authors use right language but do not explicitly declare the license.**
+:::{.commentbox}
+::::{.commentbox-header}
+:::::{.commentbox-icon}
+:::::
+Comments
+::::
+::::{.commentbox-body}
+**These authors use descriptive language but do not explicitly declare a license.  Data reuse terms would be clearer if the authors stated a license (e.g. [CC-BY](https://creativecommons.org/licenses/by/4.0/)).**
+::::
 :::

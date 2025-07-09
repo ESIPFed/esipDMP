@@ -43,6 +43,5 @@ title: "Standardization of Data and Metadata"
 
 ::: {.callout-note}
 ## IOOS: [SCCOOS](https://sccoos.org/)
-
 *For sources that do not provide quality flags, the SCCOOS DMAC Sub-System runs QARTOD tests after ingesting observation data. Tests are run using the open-source [ioos_qc library](https://github.com/ioos/ioos_qc), which implements a suite of QARTOD tests as well as other quality control algorithms. The quality test code and test thresholds are documented and publicly available through the CalOOS Data Portal. Links to the ioos_qc methods used are available both within data charts and on sensor pages within the CalOOS Data Portal. Thresholds used for each test are also viewable on sensor pages and users are linked to the test code in GitHub.*
 :::

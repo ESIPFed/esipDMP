@@ -14,7 +14,6 @@ title: "Roles and Responsibilities"
 
 ::: {.callout-note}
 ### BCO-DMO: [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link) 
-
 *Lead PI will ensure compliance to this data management plan.*
 :::  
 
@@ -28,25 +27,16 @@ title: "Roles and Responsibilities"
 
 ::: {.callout-note}
 ### BCO-DMO: [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link)
-
 -  *Observations at seafloor: All PIs*
-
 -  *Imagery at seafloor - PI3 and PI4*
-
 -  *Physical sample cataloging:*
-
     -  *PI1 will obtain IGSNs for rock samples; PI2 will provide unique*
 
 -  Animal specimen identifiers:
-
     -  *Each PI will catalog his/her respective subsamples associated to identifier, when applicable.*
-
 -  *Data for animals - PI-3 and PI-4*
-
 -  *Data for microbes - PI-1 and PI-2*
-
 -  *Data for minerals - PI-3*
-
 -  *Derived data from integrating: All PIs*
 :::
 
@@ -58,9 +48,7 @@ title: "Roles and Responsibilities"
 
 ::: {.callout-note}
 ### BCo-DMO: [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link):
-
 -  *Lead PI will ensure compliance to this data management plan.*
-
 -  *Details of external parties involved in data management.*
 :::
 
