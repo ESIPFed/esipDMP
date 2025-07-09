@@ -31,6 +31,9 @@ title: "Standardization of Data and Metadata"
 *To contribute FAIR (Findable, Accessible, Interoperable, Reusable) data products to DataONE and other community repositories, our IM team uses non-proprietary data formats, standardizes metadata, and promotes the use of controlled vocabularies.*
 :::
 
+-  Use of persistent identifiers (PIDs) for metadata schemas and standards
+
+
 ## QA/QC Methods
 
 -  Implementation of quality assurance and quality control processes.

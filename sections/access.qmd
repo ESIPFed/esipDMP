@@ -6,6 +6,8 @@ title: "Access to Research Outputs"
 
 *Describe how access to the research outputs will be provided (e.g., by publishing with a public domain license in a robust repository).  *
 
+-  Consider using persistent identifiers (PIDs) for access protocols. 
+
 ### Sharing
 
 *Describe any requirements to share the data from the project. Such requirements might come from a funder, participating organization, government agency, or other relevant entity. *
@@ -31,6 +33,9 @@ title: "Access to Research Outputs"
 ## BCO-DMO: [Reitzel](https://drive.google.com/file/d/19I3y-pgxbPr-T7yITp5LMhfS7gT4TqOm/view?usp=share_link)
 *Sequence data will be archived at NCBI GenBank or SRA, code will be archived on GitHub and processed data files (e.g., vcf files) will be deposited in Dryad. BCO-DMO ensures that the data are archived properly at the appropriate National Data Archive for long-term archive preservation.*
 :::
+
+-  Consider using repository persistent identifiers (PIDs) to identify where data will be stored or deposited
+    -  Repository PIDs can be found at [Re3data](https://www.re3data.org)
 
 
 ### Timeline for Availability/Access
