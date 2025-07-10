@@ -63,8 +63,8 @@ website:
 format:
   html:
     theme:
-      light: cosmo
-      dark: [cosmo, assets/styles/theme-dark.scss]
+      light: [cosmo, assets/styles/custom_callouts.scss]
+      dark: [cosmo, assets/styles/theme-dark.scss, assets/styles/custom_callouts.scss]
     css: assets/styles/styles.css
     code-background: true
     code-copy: true
