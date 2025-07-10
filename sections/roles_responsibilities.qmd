@@ -4,18 +4,28 @@ title: "Roles and Responsibilities"
 
 *Thoughtfully deciding who will fill the roles and have the responsibilities for data sharing and stewarding earth science data is critical. While all persons are expected to practice good data stewardship, this section asks for the contact info for the key project personnel [name, ORCID, affiliation, ROR, contact(email, phone)]. In addition, this section asks what plans are in place for handling turnover in personnel while maintaining the key roles and responsibilities.  *
 
+::: {.callout-tip}
+## Relevant literature
+Wood-Charlson EM, Crockett Z, Erdmann C, Arkin AP, Robinson CB (2022) **Ten simple rules for getting and giving credit for data**. PLOS Computational Biology 18(9): e1010476. <https://doi.org/10.1371/journal.pcbi.1010476>
+:::
+
 ## Personnel
 
 *The key roles are included below: Principal Investigator, Data Manager, Point of Contact for the DMP.  Other roles that could be included here include: Data Provider, Data Collector, Data Analyst, Data Engineer, GIS Analyst, Contractor, Consultant.*
 
 See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table)/[contributor](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_contributor_table)
 
+-   Consider using persistent identifiers (PIDs), such as [ORCiD](https://orcid.org), to identify and disambiguate personnel
+
+
 ### Principle Investigator 
 
 -   Ensures the DMP is followed by the research team.
 
 ::: {.callout-note}
-### BCO-DMO: [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link) *Lead PI will ensure compliance to this data management plan.*
+### BCO-DMO: [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link) 
+
+*Lead PI will ensure compliance to this data management plan.*
 :::  
 
 ### Data Manager
@@ -59,7 +69,7 @@ See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-
 -  May ensure the DMP is followed by the research team.
 
 ::: {.callout-note}
-### BCo-DMO: [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link):
+### BCO-DMO: [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link):
 
 -  *Lead PI will ensure compliance to this data management plan.*
 
@@ -83,4 +93,15 @@ See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-
 -  Procedures for transferring responsibilities in case of personnel changes.
 
 -  Documentation of roles and access permissions.
+
+
+## Funder identification
+
+-  Persistent identifiers (PIDs) help identify the support for the research  
+    -   [RAID](https://raid.org) - a project meta-PID  
+    -   [RRID](https://www.rrids.org)  
+    -   [DataCite (DOIs)](https://datacite.org)  
+
+
+
 

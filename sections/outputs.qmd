@@ -101,3 +101,17 @@ See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-
 ## BCO-DMO: [Reitzel](https://drive.google.com/file/d/19I3y-pgxbPr-T7yITp5LMhfS7gT4TqOm/view?usp=share_link)
 *Sequence data will be annotated with essential information for each sample, which will include description of the sample (e.g., location of origin for population, date), method for library generation, and the sequencing method. These data tags for description will be included with data submitted to SRA and BCO-DMO. Nucleic acids extracted from collected animals will be labeled with precise site of origin (latitude, longitude), date of collection, and species and archived in the Reitzel and Burt laboratories. Field temperature data will be stored in flat ASCII files, which can be read easily by different software packages. Field data will include date, time, latitude, longitude, and temperature, as appropriate.*
 :::
+
+## Persistent Identifiers (PIDs) for research outputs and metadata
+
+*A PID is a long-lasting digital reference to an object, contributor, or organization, [“a code which remains constant as a means of identifying a digital object regardless of changes to its location on the internet”](https://search.credoreference.com/content/entry/macqdict/persistent_identifier/0?institutionId=499)*
+
+PIDs help disambiguate sources and versions of data or information.   
+
+Common PIDs for research outputs include:  
+    - [DOI](https://www.doi.org/)  
+    - [ARK](https://arks.org/about/)  
+
+    
+
+

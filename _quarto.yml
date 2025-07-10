@@ -43,6 +43,8 @@ website:
     contents:
       - text: "Welcome"
         href: index.qmd
+      - text: "Data Life Cycle"
+        href: sections/data_lifecycle.qmd
       - text: "Research Outputs"
         href: sections/outputs.qmd
       - text: "Standardization of Data and Metadata"
@@ -53,8 +55,7 @@ website:
         href: sections/roles_responsibilities.qmd
       - text: "Persistent Identifiers (PIDs)"
         href: sections/pids.qmd
-      - text: "Data Management"
-        href: sections/data_management.qmd
+
       # - section: core-lessons/index.qmd
       #   contents:        
       #    - href: "core-lessons/mindset.qmd"
@@ -64,9 +65,12 @@ format:
     theme:
       light: cosmo
       dark: [cosmo, assets/styles/theme-dark.scss]
+    css: assets/styles/styles.css
     code-background: true
     code-copy: true
-    css: assets/styles/styles.css
+    highlight-style: github
+    linestretch: 1.25
+    fontsize: 14pt
     toc: true
     toc-location: left
     toc-title: ""
