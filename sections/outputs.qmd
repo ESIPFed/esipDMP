@@ -82,7 +82,6 @@ Comments
 
 
 ::: {.callout-note}
->>>>>>> 4c86037 (fix callout note)
 ## Repository: [lead author]()
 
 *Description of data types, number of experiments performed, file types generated, and repositories for submission*
