@@ -51,8 +51,8 @@ website:
         href: sections/access.qmd
       - text: "Roles and Responsibilities"
         href: sections/roles_responsibilities.qmd
-      - text: "Persistent Identifiers (PIDs)"
-        href: sections/pids.qmd
+      - text: "References"
+        href: sections/references.qmd
       - text: "Data Management"
         href: sections/data_management.qmd
       # - section: core-lessons/index.qmd
