@@ -1,0 +1,39 @@
+---
+title: "Resources"
+---
+## Overview
+
+The following resources provide practical guidance, best practices, and foundational principles for effective research data management (RDM) and for making data Findable, Accessible, Interoperable, and Reusable (FAIR). These guides, tools, and community standards offer actionable steps and in-depth explanations to help you meet funder, institutional, and disciplinary requirements for data stewardship. Explore the links below for policy guidance, planning tools, and hands-on advice to support your research workflow. 
+
+***Feel free to reach out and suggest new resources to include in this list. Submit a suggestion through [Github issues](https://github.com/ESIPFed/esipDMP/issues/new/choose)***
+
+
+- [EUI Library: Research Data Guide – RDM & FAIR Principles](https://eui-library.github.io/research-data-guide/):
+This guide from the European University Institute Library introduces the concepts of Research Data Management (RDM) and the FAIR Principles (Findable, Accessible, Interoperable, Reusable). It explains why RDM is important for researchers, outlines the main elements of a data management plan, and provides practical guidance for making data FAIR-compliant. It may be useful for researcher collaborating with European institutions.
+
+
+
+- [OpenAIRE: How to Make Your Data FAIR](https://www.openaire.eu/how-to-make-your-data-fair):  
+OpenAIRE provides a practical step-by-step guide for researchers and data stewards on how to implement the FAIR principles in their data workflows. The resource breaks down each FAIR principle and offers actionable advice, tools, and checklists to ensure that datasets are Findable, Accessible, Interoperable, and Reusable.
+
+- [DMPTool](https://dmptool.org/): 
+DMPTool is an online platform that helps researchers create, review, and share data management plans (DMPs) required by funders and institutions. It provides templates tailored to specific funding agencies, guidance for each DMP section, and options for collaboration and sharing among research teams.
+
+
+- [The Turing Way: FAIR Research Data Management](https://book.the-turing-way.org/reproducible-research/rdm/rdm-fair.html):  
+Part of The Turing Way handbook, this chapter focuses on practical aspects of research data management and the implementation of the FAIR principles. It covers the rationale for FAIR, steps to make data FAIR, and links to additional resources and checklists for reproducible and transparent research practices.
+
+
+
+- [SSH Open Science: RDM, DMP and FAIR Principles](https://ssh-tot-fair-by-design.github.io/OS-RDM-SSH/latest/1.%20Planning/Doing%20research%20in%20the%20SSH%20OS%20landscape/1.8%20RDM,%20DMP%20and%20FAIR%20Principles/):
+A resource tailored to the Social Sciences and Humanities (SSH) community, explaining the interplay between Research Data Management, Data Management Plans, and the FAIR principles in the context of open science. It addresses challenges and best practices for SSH researchers adopting FAIR and OS approaches.
+
+
+
+- [NWO: Research Data Management](https://www.nwo.nl/en/research-data-management):
+The Dutch Research Council (NWO) outlines its policy and requirements for research data management. This page explains why data management is essential, what is expected in data management plans, and how researchers can comply with NWO’s FAIR data requirements.
+
+- [GO FAIR: FAIR Principles](https://www.go-fair.org/fair-principles/):
+GO FAIR provides the authoritative and original description of the FAIR principles. This page details each principle (Findable, Accessible, Interoperable, Reusable), explains their rationale, and links to foundational documents and ongoing initiatives to advance FAIR data stewardship globally.
+
+
