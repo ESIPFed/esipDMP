@@ -55,13 +55,15 @@ website:
         href: sections/roles_responsibilities.qmd
       - section: "References"
         contents:
+         - href: sections/references_resources/works_cited.qmd
+           text: "Works Cited"
          - href: sections/references_resources/resources.qmd
-           text: "Resources"
+           text: "Resources and Tools"
          - href: sections/references_resources/acronyms.qmd
            text: "Acronyms"
          - href: sections/references_resources/dictionary.qmd
            text: "Dictionary"
-           
+
 format:
   html:
     theme:
