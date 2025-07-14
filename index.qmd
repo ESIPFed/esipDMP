@@ -6,7 +6,8 @@ slug: index
 
 ****
 :::{.callout-warning}
-**Disclaimer**: This resource is currently under development, and we welcome your feedback and suggestions! (see below on how to submit feedback)
+## **Disclaimer** 
+This resource is currently under development, and we welcome your feedback and suggestions! (see below on how to submit feedback)
 :::
 
 Good data management requires planning, and most funding agencies require structured, comprehensive details describing how research outputs, like data, software, samples, etc. will be collected, stored, shared, and archived. Otherwise known as “DMPs”, or Data Management Plans. Note that
@@ -20,7 +21,7 @@ This resource provides some examples of DMPs from ESIP-relevant funding agencies
 2. a brief description of best practices for those sections/topics, as generated during an ESIP 2025 Winter session, and 
 3. examples of DMPs from proposals funded by ESIP-relevant funding agencies.
 
-**ESIP-relevant funding agencies represented (so far) include:**
+#### ESIP-relevant funding agencies represented (so far):
 
 * National Science Foundation ([NSF](https://www.nsf.gov/funding/data-management-plan))   
   * Arctic Data Center (ADC)  
@@ -42,9 +43,9 @@ This resource was created as a working group partnership between the [ESIP Marin
 
 Navigate to our [issues page](https://github.com/ESIPFed/esipDMP/issues) and open an issue related to your feedback. **This requires an active GitHub account**.
 
-#### Types of issues include:
-- Non-trivial revision - larger revisions to content or concepts
-- Small problem - typos, broken links
-- Suggest new content - what are we missing?! 
-- Direct message to the team - any issues that you think should only be seen by team members.
+**Types of issues include:**  
+- Non-trivial revision - larger revisions to content or concepts  
+- Small problem - typos, broken links  
+- Suggest new content - what are we missing?!   
+- Direct message to the team - any issues that you think should only be seen by team members.  
 

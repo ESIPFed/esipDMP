@@ -8,6 +8,8 @@ title: "Standardization of Data and Metadata"
 
 ### Formats
 
+See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table)/[dataset](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_table)/[distribution](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#distribution_table) 
+
 -   Use of widely accepted formats (e.g., CSV, JSON, HDF5 for data; XML, JSON-LD for metadata).
 
 ::: {.callout-note}
@@ -16,6 +18,8 @@ title: "Standardization of Data and Metadata"
 :::
 
 ### Standards
+
+See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table)/[dataset](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_table)/[metadata](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#metadata_table)
 
 -  Adherence to domain-specific standards (e.g., Darwin Core for biodiversity data, DICOM for medical imaging).
 
@@ -31,7 +35,12 @@ title: "Standardization of Data and Metadata"
 *To contribute FAIR (Findable, Accessible, Interoperable, Reusable) data products to DataONE and other community repositories, our IM team uses non-proprietary data formats, standardizes metadata, and promotes the use of controlled vocabularies.*
 :::
 
+-  Use of persistent identifiers (PIDs) for metadata schemas and standards
+
+
 ## QA/QC Methods
+
+See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table)/[dataset](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_table)/[data_quality_assurance](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_quality_assurance)
 
 -  Implementation of quality assurance and quality control processes.
 -  Regular audits and validation checks to ensure data integrity.
