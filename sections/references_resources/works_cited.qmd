@@ -1,0 +1,31 @@
+---
+title: "Works Cited"
+---
+
+:::{ .callout-warning}
+## Disclaimer
+***Under Construction***
+:::
+
+Below are the Data Management Plans and projects presented throughout the website. We have organized it by agency/group. Where available, full references and DOIs are included.
+
+
+| Title                                                                 | Lead Author    | Agency      | Reference / DOI                                                                                             |
+|-----------------------------------------------------------------------|---------------|-------------|------------------------------------------------------------------------------------------------------------|
+| Collaborative Research: Defining the Role of the Pangenome in *Emiliania huxleyi* Ecology and Biogeography | Alexander     | BCO-DMO     |                                                                                                            |
+| [Untitled]                                                            | Arnosti       | BCO-DMO     |                                                                                                            |
+| [Untitled]                                                            | Bianchi       | BCO-DMO     |                                                                                                            |
+| [Untitled]                                                            | Church        | BCO-DMO     |                                                                                                            |
+| [Untitled]                                                            | Bianchi       | BCO-DMO     |                                                                                                            |
+| [Untitled]                                                            | Greer         | BCO-DMO     |                                                                                                            |
+| Trajectories in functional diversity after disturbance at vents on the East Pacific Rise | Mullineaux    | BCO-DMO     |                                                                                                            |
+| Trajectories in functional diversity after disturbance at vents on the East Pacific Rise | Mullineaux    | BCO-DMO     |                                                                                                            |
+| Life After Death: Do Inactive Sulfides Fuel a Unique Ecosystem at the Deep Seafloor? | Mullineaux    | BCO-DMO     |                                                                                                            |
+| Underexplored Connections between Nitrogen and Trace Metal Cycling     | Saito         | BCO-DMO     |                                                                                                            |
+| [Untitled]                                                            | Reitzel       | BCO-DMO     |                                                                                                            |
+| Coastal Ocean Processes of North Greenland                            | Muenchow      | NSF ADC     | Muenchow. 2023. Coastal Ocean Processes of North Greenland. ADC. [https://doi.org/10.48321/D1R316](https://doi.org/10.48321/D1R316) |
+| Northeast US Shelf (NES) Long-Term Ecological Research (LTER) Phase II | Sosik        | NSF LTER    |                                                                                                            |
+| Northern Gulf of Alaska (NGA) Long-Term Ecological Research (LTER) Phase II | Turner      | NSF LTER    | Turner. 2023. NGA LTER Phase II Data Management Plan. NSF LTER. [https://doi.org/10.48321/D10DBEE0C5](https://doi.org/10.48321/D10DBEE0C5) |
+| Long-Term Dynamics of a Coral Reef Ecosystem Moorea Coral Reef (MCR) Long Term Ecological Research (LTER) | Schmitt      | NSF LTER    |                                                                                                            |
+| Airborne and Satellite Investigation of Asian Air Quality (ASIA-AQ)   | Kusterer (?)  | NASA        |                                                                                                            |
+| Southern California Coastal Ocean Observing System (SCCOOS)           | [Unknown]     | NOAA IOOS   |                                                                                                            |
