@@ -90,52 +90,26 @@
     ]
   },
   {
-    "objectID": "sections/references_resources/dictionary.html",
-    "href": "sections/references_resources/dictionary.html",
-    "title": "Dictionary",
+    "objectID": "sections/references_resources/works_cited.html",
+    "href": "sections/references_resources/works_cited.html",
+    "title": "Works Cited",
     "section": "",
-    "text": "Under construction",
+    "text": "Disclaimer\n\n\n\nUnder Construction\n\n\nBelow are the Data Management Plans and projects presented throughout the website. We have organized it by agency/group. Where available, full references and DOIs are included.\n\n\n\nTitle\nLead Author\nAgency\nReference / DOI\n\n\n\n\nCollaborative Research: Defining the Role of the Pangenome in Emiliania huxleyi Ecology and Biogeography\nAlexander\nBCO-DMO\n\n\n\n[Untitled]\nArnosti\nBCO-DMO\n\n\n\n[Untitled]\nBianchi\nBCO-DMO\n\n\n\n[Untitled]\nChurch\nBCO-DMO\n\n\n\n[Untitled]\nBianchi\nBCO-DMO\n\n\n\n[Untitled]\nGreer\nBCO-DMO\n\n\n\nTrajectories in functional diversity after disturbance at vents on the East Pacific Rise\nMullineaux\nBCO-DMO\n\n\n\nTrajectories in functional diversity after disturbance at vents on the East Pacific Rise\nMullineaux\nBCO-DMO\n\n\n\nLife After Death: Do Inactive Sulfides Fuel a Unique Ecosystem at the Deep Seafloor?\nMullineaux\nBCO-DMO\n\n\n\nUnderexplored Connections between Nitrogen and Trace Metal Cycling\nSaito\nBCO-DMO\n\n\n\n[Untitled]\nReitzel\nBCO-DMO\n\n\n\nCoastal Ocean Processes of North Greenland\nMuenchow\nNSF ADC\nMuenchow. 2023. Coastal Ocean Processes of North Greenland. ADC. https://doi.org/10.48321/D1R316\n\n\nNortheast US Shelf (NES) Long-Term Ecological Research (LTER) Phase II\nSosik\nNSF LTER\n\n\n\nNorthern Gulf of Alaska (NGA) Long-Term Ecological Research (LTER) Phase II\nTurner\nNSF LTER\nTurner. 2023. NGA LTER Phase II Data Management Plan. NSF LTER. https://doi.org/10.48321/D10DBEE0C5\n\n\nLong-Term Dynamics of a Coral Reef Ecosystem Moorea Coral Reef (MCR) Long Term Ecological Research (LTER)\nSchmitt\nNSF LTER\n\n\n\nAirborne and Satellite Investigation of Asian Air Quality (ASIA-AQ)\nKusterer (?)\nNASA\n\n\n\nSouthern California Coastal Ocean Observing System (SCCOOS)\n[Unknown]\nNOAA IOOS",
     "crumbs": [
       "References",
-      "Dictionary"
+      "Works Cited"
     ]
   },
   {
-    "objectID": "sections/data_lifecycle.html",
-    "href": "sections/data_lifecycle.html",
-    "title": "Data Life Cycle",
+    "objectID": "sections/references_resources/acronyms.html",
+    "href": "sections/references_resources/acronyms.html",
+    "title": "Acronyms",
     "section": "",
-    "text": "Data management involves having a comprehensive plan (a.k.a. DMP) that addresses each stage of the research data lifecycle.\nThe data lifecycle begins with data management planning!",
+    "text": "Acronym\nName\n\n\n\n\nADC\nArctic Data Center\n\n\nASIA-AQ\nAirborne and Satellite Investigation of Asian Air Quality\n\n\nBCO-DMO\nBiological and Chemical Oceanography Data Management Office\n\n\nIOOS\nU.S. Integrated Ocean Observing System\n\n\nLTER\nLong Term Ecological Research Network\n\n\nMCR\nMoorea Coral Reef\n\n\nNASA\nNational Aeronautics and Space Administration\n\n\nNCEI\nNational Centers for Environmental Information\n\n\nNOAA\nNational Oceanic and Atmospheric Administration\n\n\nNGA\nNorthern Gulf of Alaska\n\n\nNSF\nNational Science Foundation\n\n\nORCID\nOpen Researcher and Contributor ID\n\n\nROR\nResearch Organization Registry\n\n\nSCCOOS\nSouthern California Coastal Ocean Observing System\n\n\n\nLinks go directly to DMP-related information.\nPlease request additional terms / resources using our GitHub feedback issues.",
     "crumbs": [
-      "Data Life Cycle"
+      "References",
+      "Acronyms"
     ]
-  },
-  {
-    "objectID": "sections/data_lifecycle.html#footnotes",
-    "href": "sections/data_lifecycle.html#footnotes",
-    "title": "Data Life Cycle",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThe diagram and links are from Elixir Europe, which built a Research Data Management toolkit (RDMkit) that describes best practices and guidelines for managing data and making it FAIR (Findable, Accessible, Interoperable and Reusable). Details available at: RDMkit: The ELIXIR Research Data Management toolkit for Life Sciences↩︎",
-    "crumbs": [
-      "Data Life Cycle"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Data Management: Planning for success",
-    "section": "",
-    "text": "Disclaimer\n\n\n\nThis resource is currently under development, and we welcome your feedback and suggestions! (see below on how to submit feedback)\n\n\nGood data management requires planning, and most funding agencies require structured, comprehensive details describing how research outputs, like data, software, samples, etc. will be collected, stored, shared, and archived. Otherwise known as “DMPs”, or Data Management Plans. Note that different agencies may have slightly different acronyms for DMPs (see acronym list for more examples).\nThis resource provides some examples of DMPs from ESIP-relevant funding agencies (listed below), with the goal of providing:\n\nan overview of the sections/topics that should be covered in a DMP,\na brief description of best practices for those sections/topics, as generated during an ESIP 2025 Winter session, and\nexamples of DMPs from proposals funded by ESIP-relevant funding agencies.\n\n\nESIP-relevant funding agencies represented (so far):\n\nNational Science Foundation (NSF)\n\nArctic Data Center (ADC)\n\nBiological and Chemical Oceanography Data Management Office (BCO-DMO)\n\nLong Term Ecological Research (LTER)\n\n\nNational Aeronautics and Space Administration (NASA\n\nNational Oceanic and Atmospheric Administration (NOAA)\n\nU.S. Integrated Ocean Observing System (IOOS)\n\n\nOne resource to help with your DMP generation is the DMPTool, provided by the California Digital Library. DMPTool provides templates from a number of agencies, including those listed above, examples of published DMPs, and allows you to request a DOI for your DMP (highly recommended!). DMPTool is also working on creating machine-actionable DMPs (ma-DMPs), which will greatly improve the ability of funders and publishers to better track the impact of the research outputs from your science, as described in your DMP! Stay tuned for exciting advancements in this area, and read here for more information.\nThis resource was created as a working group partnership between the ESIP Marine Data Cluster and the ESIP Data Stewardship Committee. We are grateful to our ESIP Winter 2025 session speakers and participants for your help generating the best practices and ideas captured in this resource. We would also like to thank the Research Data Alliance (RDA) DMP Common Standards Working Group for their guidance and continued efforts to advance DMPs.\nThis resource leverages work currently being evolved by the DMP Common Standard. All sections with relevant DMP Common Standard components are linked to their GitHub definitions.\n\n\n\nHow to submit feedback / suggestions via GitHub issues\nNavigate to our issues page and open an issue related to your feedback. This requires an active GitHub account.\nTypes of issues include:\n- Non-trivial revision - larger revisions to content or concepts\n- Small problem - typos, broken links\n- Suggest new content - what are we missing?!\n- Direct message to the team - any issues that you think should only be seen by team members.",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   },
   {
     "objectID": "sections/standardization.html",
@@ -168,14 +142,51 @@
     ]
   },
   {
-    "objectID": "sections/references_resources/acronyms.html",
-    "href": "sections/references_resources/acronyms.html",
-    "title": "Acronyms",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Acronym\nName\n\n\n\n\nADC\nArctic Data Center\n\n\nASIA-AQ\nAirborne and Satellite Investigation of Asian Air Quality\n\n\nBCO-DMO\nBiological and Chemical Oceanography Data Management Office\n\n\nIOOS\nU.S. Integrated Ocean Observing System\n\n\nLTER\nLong Term Ecological Research Network\n\n\nMCR\nMoorea Coral Reef\n\n\nNASA\nNational Aeronautics and Space Administration\n\n\nNCEI\nNational Centers for Environmental Information\n\n\nNOAA\nNational Oceanic and Atmospheric Administration\n\n\nNGA\nNorthern Gulf of Alaska\n\n\nNSF\nNational Science Foundation\n\n\nORCID\nOpen Researcher and Contributor ID\n\n\nROR\nResearch Organization Registry\n\n\nSCCOOS\nSouthern California Coastal Ocean Observing System\n\n\n\nLinks go directly to DMP-related information.\nPlease request additional terms / resources using our GitHub feedback issues.",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Management: Planning for success",
+    "section": "",
+    "text": "Disclaimer\n\n\n\nThis resource is currently under development, and we welcome your feedback and suggestions! (see below on how to submit feedback)\n\n\nGood data management requires planning, and most funding agencies require structured, comprehensive details describing how research outputs, like data, software, samples, etc. will be collected, stored, shared, and archived. Otherwise known as “DMPs”, or Data Management Plans. Note that different agencies may have slightly different acronyms for DMPs (see acronym list for more examples).\nThis resource provides some examples of DMPs from ESIP-relevant funding agencies (listed below), with the goal of providing:\n\nan overview of the sections/topics that should be covered in a DMP,\na brief description of best practices for those sections/topics, as generated during an ESIP 2025 Winter session, and\nexamples of DMPs from proposals funded by ESIP-relevant funding agencies.\n\n\nESIP-relevant funding agencies represented (so far):\n\nNational Science Foundation (NSF)\n\nArctic Data Center (ADC)\n\nBiological and Chemical Oceanography Data Management Office (BCO-DMO)\n\nLong Term Ecological Research (LTER)\n\n\nNational Aeronautics and Space Administration (NASA\n\nNational Oceanic and Atmospheric Administration (NOAA)\n\nU.S. Integrated Ocean Observing System (IOOS)\n\n\nOne resource to help with your DMP generation is the DMPTool, provided by the California Digital Library. DMPTool provides templates from a number of agencies, including those listed above, examples of published DMPs, and allows you to request a DOI for your DMP (highly recommended!). DMPTool is also working on creating machine-actionable DMPs (ma-DMPs), which will greatly improve the ability of funders and publishers to better track the impact of the research outputs from your science, as described in your DMP! Stay tuned for exciting advancements in this area, and read here for more information.\nThis resource was created as a working group partnership between the ESIP Marine Data Cluster and the ESIP Data Stewardship Committee. We are grateful to our ESIP Winter 2025 session speakers and participants for your help generating the best practices and ideas captured in this resource. We would also like to thank the Research Data Alliance (RDA) DMP Common Standards Working Group for their guidance and continued efforts to advance DMPs.\nThis resource leverages work currently being evolved by the DMP Common Standard. All sections with relevant DMP Common Standard components are linked to their GitHub definitions.\n\n\n\nHow to submit feedback / suggestions via GitHub issues\nNavigate to our issues page and open an issue related to your feedback. This requires an active GitHub account.\nTypes of issues include:\n- Non-trivial revision - larger revisions to content or concepts\n- Small problem - typos, broken links\n- Suggest new content - what are we missing?!\n- Direct message to the team - any issues that you think should only be seen by team members.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "sections/data_lifecycle.html",
+    "href": "sections/data_lifecycle.html",
+    "title": "Data Life Cycle",
+    "section": "",
+    "text": "Data management involves having a comprehensive plan (a.k.a. DMP) that addresses each stage of the research data lifecycle.\nThe data lifecycle begins with data management planning!",
+    "crumbs": [
+      "Data Life Cycle"
+    ]
+  },
+  {
+    "objectID": "sections/data_lifecycle.html#footnotes",
+    "href": "sections/data_lifecycle.html#footnotes",
+    "title": "Data Life Cycle",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThe diagram and links are from Elixir Europe, which built a Research Data Management toolkit (RDMkit) that describes best practices and guidelines for managing data and making it FAIR (Findable, Accessible, Interoperable and Reusable). Details available at: RDMkit: The ELIXIR Research Data Management toolkit for Life Sciences↩︎",
+    "crumbs": [
+      "Data Life Cycle"
+    ]
+  },
+  {
+    "objectID": "sections/references_resources/dictionary.html",
+    "href": "sections/references_resources/dictionary.html",
+    "title": "Dictionary",
+    "section": "",
+    "text": "Disclaimer\n\n\n\nUnder Construction",
     "crumbs": [
       "References",
-      "Acronyms"
+      "Dictionary"
     ]
   },
   {
@@ -186,7 +197,7 @@
     "text": "The following resources provide practical guidance, best practices, and foundational principles for effective research data management (RDM) and for making data Findable, Accessible, Interoperable, and Reusable (FAIR). These guides, tools, and community standards offer actionable steps and in-depth explanations to help you meet funder, institutional, and disciplinary requirements for data stewardship. Explore the links below for policy guidance, planning tools, and hands-on advice to support your research workflow.\nFeel free to reach out and suggest new resources to include in this list. Submit a suggestion through GitHub issues\n\nEUI Library: Research Data Guide – RDM & FAIR Principles: This guide from the European University Institute Library introduces the concepts of Research Data Management (RDM) and the FAIR Principles (Findable, Accessible, Interoperable, Reusable). It explains why RDM is important for researchers, outlines the main elements of a data management plan, and provides practical guidance for making data FAIR-compliant. It may be useful for researcher collaborating with European institutions.\nOpenAIRE: How to Make Your Data FAIR:\nOpenAIRE provides a practical step-by-step guide for researchers and data stewards on how to implement the FAIR principles in their data workflows. The resource breaks down each FAIR principle and offers actionable advice, tools, and checklists to ensure that datasets are Findable, Accessible, Interoperable, and Reusable.\nDMPTool: DMPTool is an online platform that helps researchers create, review, and share data management plans (DMPs) required by funders and institutions. It provides templates tailored to specific funding agencies, guidance for each DMP section, and options for collaboration and sharing among research teams.\nThe Turing Way: FAIR Research Data Management:\nPart of The Turing Way handbook, this chapter focuses on practical aspects of research data management and the implementation of the FAIR principles. It covers the rationale for FAIR, steps to make data FAIR, and links to additional resources and checklists for reproducible and transparent research practices.\nSSH Open Science: RDM, DMP and FAIR Principles: A resource tailored to the Social Sciences and Humanities (SSH) community, explaining the interplay between Research Data Management, Data Management Plans, and the FAIR principles in the context of open science. It addresses challenges and best practices for SSH researchers adopting FAIR and OS approaches.\nNWO: Research Data Management: The Dutch Research Council (NWO) outlines its policy and requirements for research data management. This page explains why data management is essential, what is expected in data management plans, and how researchers can comply with NWO’s FAIR data requirements.\nGO FAIR: FAIR Principles: GO FAIR provides the authoritative and original description of the FAIR principles. This page details each principle (Findable, Accessible, Interoperable, Reusable), explains their rationale, and links to foundational documents and ongoing initiatives to advance FAIR data stewardship globally.",
     "crumbs": [
       "References",
-      "Resources"
+      "Resources and Tools"
     ]
   },
   {
@@ -197,7 +208,7 @@
     "text": "The following resources provide practical guidance, best practices, and foundational principles for effective research data management (RDM) and for making data Findable, Accessible, Interoperable, and Reusable (FAIR). These guides, tools, and community standards offer actionable steps and in-depth explanations to help you meet funder, institutional, and disciplinary requirements for data stewardship. Explore the links below for policy guidance, planning tools, and hands-on advice to support your research workflow.\nFeel free to reach out and suggest new resources to include in this list. Submit a suggestion through GitHub issues\n\nEUI Library: Research Data Guide – RDM & FAIR Principles: This guide from the European University Institute Library introduces the concepts of Research Data Management (RDM) and the FAIR Principles (Findable, Accessible, Interoperable, Reusable). It explains why RDM is important for researchers, outlines the main elements of a data management plan, and provides practical guidance for making data FAIR-compliant. It may be useful for researcher collaborating with European institutions.\nOpenAIRE: How to Make Your Data FAIR:\nOpenAIRE provides a practical step-by-step guide for researchers and data stewards on how to implement the FAIR principles in their data workflows. The resource breaks down each FAIR principle and offers actionable advice, tools, and checklists to ensure that datasets are Findable, Accessible, Interoperable, and Reusable.\nDMPTool: DMPTool is an online platform that helps researchers create, review, and share data management plans (DMPs) required by funders and institutions. It provides templates tailored to specific funding agencies, guidance for each DMP section, and options for collaboration and sharing among research teams.\nThe Turing Way: FAIR Research Data Management:\nPart of The Turing Way handbook, this chapter focuses on practical aspects of research data management and the implementation of the FAIR principles. It covers the rationale for FAIR, steps to make data FAIR, and links to additional resources and checklists for reproducible and transparent research practices.\nSSH Open Science: RDM, DMP and FAIR Principles: A resource tailored to the Social Sciences and Humanities (SSH) community, explaining the interplay between Research Data Management, Data Management Plans, and the FAIR principles in the context of open science. It addresses challenges and best practices for SSH researchers adopting FAIR and OS approaches.\nNWO: Research Data Management: The Dutch Research Council (NWO) outlines its policy and requirements for research data management. This page explains why data management is essential, what is expected in data management plans, and how researchers can comply with NWO’s FAIR data requirements.\nGO FAIR: FAIR Principles: GO FAIR provides the authoritative and original description of the FAIR principles. This page details each principle (Findable, Accessible, Interoperable, Reusable), explains their rationale, and links to foundational documents and ongoing initiatives to advance FAIR data stewardship globally.",
     "crumbs": [
       "References",
-      "Resources"
+      "Resources and Tools"
     ]
   },
   {
