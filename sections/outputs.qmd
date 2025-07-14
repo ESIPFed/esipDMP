@@ -61,7 +61,7 @@ See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-
 See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table)/[dataset](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_table)/[distribution](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#distribution_table)/[byte_size](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#distribution_byte_size)
 
 -  File sizes (e.g., MB, GB, TB) for digital outputs.
-    -  Physical dimensions or quantities for physical samples.
+-  Physical dimensions or quantities for physical samples.
     
 ::: {.callout-note}
 ## LTER: [Sosik](https://drive.google.com/file/d/1-kTwz8I46snB0tfNk4U8bk8suVjF8xjG/view?usp=drive_link)
