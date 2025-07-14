@@ -56,7 +56,7 @@ title: "Research Outputs"
 
 ### Size of each file, sample, etc.
 -  File sizes (e.g., MB, GB, TB) for digital outputs.
-    -  Physical dimensions or quantities for physical samples.
+-  Physical dimensions or quantities for physical samples.
     
 ::: {.callout-note}
 ## LTER: [Sosik](https://drive.google.com/file/d/1-kTwz8I46snB0tfNk4U8bk8suVjF8xjG/view?usp=drive_link)
