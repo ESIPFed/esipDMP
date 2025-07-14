@@ -1,8 +1,286 @@
 /*-- scss:defaults --*/
-$body-bg: #181818;
-$body-color: #0e2943;
-$link-color: #11809a;
-$sidebar-bg: #303030;
-$code-background-alpha: -.8;
-$popover-bg: #242424;
-$input-bg: #242424;
+
+// Quarto references:
+// Variables: https://github.com/quarto-dev/quarto-cli/src/resources/formats/html/bootstrap/_bootstrap-variables.scss
+// Rules: https://github.com/quarto-dev/quarto-cli/src/resources/formats/html/bootstrap/_bootstrap-rules.scss
+
+/*==========================================================================
+   1. VARIABLES & IMPORTS
+  ==========================================================================*/
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+// Define font-family variables
+$font-family-sans-serif: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+// Code fonts
+$font-family-monospace: "Fira Code", "Dank Mono", SFMono-Regular, Menlo, Monaco, Consolas, 
+                        "Liberation Mono", "Courier New", monospace;
+
+// Heading fonts
+$main-headings-font-family: $font-family-sans-serif;
+$secondary-headings-font-family: $font-family-sans-serif;
+$headings-font-weight: 400;
+
+// Colors (dark theme)
+$white:  #ffffff;
+$gray-0: #f9f9f9;
+$gray-1: #eceeee;
+$gray-2: #dfe1e1;
+$gray-3: #d0d4d3;
+$gray-4: #c0c5c4;
+$gray-5: #aeb4b3;
+$gray-6: #99a1a0;
+$gray-7: #818b8a;
+$gray-8: #626f6d;
+$gray-9: #334240;
+$black:  #181818;
+
+$primary:         #0e2943; 
+$secondary:       #11809a;
+$light:           #fbf7ea;
+$light-accent:    $gray-3;
+$dark:            $gray-9;
+
+
+$body-bg: $black;
+$body-color: $gray-2;
+
+// Base document colors
+$navbar-bg: $primary;
+$navbar-fg: $white;
+$sidebar-bg: $primary;
+$link-color: $secondary;
+
+// Contrast
+$min-contrast-ratio: 7;
+
+/*-- scss:rules --*/
+
+/*==========================================================================
+   2. BASE STYLES
+  ==========================================================================*/
+
+// Global styles
+body {
+  font-family: $font-family-sans-serif;
+  color: $body-color;
+  background-color: $body-bg;
+  position: relative;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25px;
+}
+
+// Body background
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: $body-bg;
+  background-size: 60px 60px;
+  background-position: 0 0, 30px 30px, 30px 30px;
+  z-index: -1;
+}
+
+.main-content, .content, .quarto-container {
+  background-color: $body-bg;
+} // Main content area
+
+/*==========================================================================
+   3. TYPOGRAPHY
+  ==========================================================================*/
+
+// Heading styles
+h1, h2, h3, h4, h5, h6 {
+  position: relative;
+  padding-left: 0em;
+  margin-bottom: 1em;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}
+
+h1 {
+  color: $white;
+  font-size: 44px;
+  font-family: $main-headings-font-family;
+}
+
+h2 {
+  color: $white;
+  font-size: 32px;
+  font-family: $main-headings-font-family;
+}
+
+h3 {
+  color: $white;
+  font-size: 26px;
+  font-family: $secondary-headings-font-family;
+}
+
+h4, h5, h6 {
+  color: $gray-1;
+  font-size: 22px;
+  font-family: $secondary-headings-font-family;
+}
+
+// General Links
+a {
+  color: $link-color;
+  text-decoration: none;
+  position: relative;
+  transition: all 0.2s ease;
+}
+
+a:hover {
+  color: $gray-0;
+  text-decoration: underline;
+}
+
+/*==========================================================================
+   4. COMPONENTS
+  ==========================================================================*/
+
+/*------------------
+   4.1 Navigation
+  ------------------*/
+
+// Sidebar, Navbar
+.sidebar, .quarto-sidebar, #quarto-sidebar {
+  position: relative;
+  font-family: $font-family-sans-serif;
+  color: $white;
+  background-color: $sidebar-bg !important;
+}
+
+.sidebar-title {
+  color: $white;
+  font-family: $font-family-sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: -0.05em;
+}
+
+.sidebar-link, .sidebar-item-text {
+  color: $white !important;
+  transition: background 0.2s, color 0.2s;
+}
+.sidebar-link:hover, .sidebar-link:focus {
+  background-color: $secondary !important;
+  color: $white !important;
+}
+
+// Items in Sidebar menu
+.menu-text {
+  color: $white !important;
+}
+
+#TOC, .toc-active, .quarto-toc {
+  color: $white;
+}
+#TOC .nav-link, .toc-active .nav-link, .quarto-toc .nav-link {
+  color: $white;
+}
+#TOC .nav-link:hover, .toc-active .nav-link:hover, .quarto-toc .nav-link:hover {
+  color: $secondary;
+  background: $gray-8;
+}
+#TOC #toc-title {
+  color: $white;
+}
+
+// Footer
+.footer {
+  background-color: $dark;
+  color: $gray-2;
+  position: relative;
+}
+
+.footer::before {
+  content: '';
+  position: absolute;
+  top: -5px;
+  left: 0;
+  width: 100%;
+  height: 5px;
+  background: $black;
+}
+
+/*--------------------
+   4.2 Callouts
+  ------------------*/
+// See custom_callout.scss
+
+/*==========================================================================
+   5. UTILITY CLASSES
+  ==========================================================================*/
+
+.center-text {
+  text-align: center;
+}
+
+.img-va-bottom {
+  vertical-align: bottom;
+}
+
+.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-float-right {
+  float: right;
+  padding-left: 1em;
+}
+
+/*==========================================================================
+   6. RESPONSIVE STYLES
+  ==========================================================================*/
+
+@media screen and (max-width: 991.98px) {
+  h1 {
+    font-size: 2em;
+  }
+
+  h2 {
+    font-size: 1.5em;
+  }
+
+  .img-float-right {
+    float: right;
+    width: 100%;
+    padding-bottom: 1em;
+    padding-left: 0em;
+  }
+
+  .nav-footer {
+      flex-direction: column;
+  }
+
+  .nav-footer-center {
+    order: 3 !important;
+    flex-basis: 100%;
+    margin-top: -0.5em;
+  }
+
+  .nav-footer-right {
+    order: 2 !important;
+    flex-basis: 100%;
+    text-align: center;
+  }
+
+  .nav-footer-left {
+    order: 1 !important;
+    flex-basis: 100%;
+    text-align: center;
+  }
+
+  .navbar .quarto-navbar-tools {
+    text-align: left;
+  }
+}
