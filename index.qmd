@@ -39,7 +39,7 @@ This resource was created as a working group partnership between the [ESIP Marin
 *This resource leverages work currently being evolved by the DMP Common Standard. All sections with relevant DMP Common Standard components are linked to their GitHub definitions.* 
 
 ---
-### How to submit feedback / suggestions via GitHub issues 
+### How to submit feedback 
 
 Navigate to our [issues page](https://github.com/ESIPFed/esipDMP/issues) and open an issue related to your feedback. **This requires an active GitHub account**.
 
