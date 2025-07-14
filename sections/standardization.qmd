@@ -8,7 +8,7 @@ title: "Standardization of Data and Metadata"
 
 ### Formats
 
-See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table)/[dataset](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_table)/[distribution](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#distribution_table) 
+See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table)/[dataset](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_table)/[distribution](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#distribution_table)/[format](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#distribution_format)
 
 -   Use of widely accepted formats (e.g., CSV, JSON, HDF5 for data; XML, JSON-LD for metadata).
 
