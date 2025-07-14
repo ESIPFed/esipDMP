@@ -117,6 +117,8 @@ See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-
 
 *A PID is a long-lasting digital reference to an object, contributor, or organization, [“a code which remains constant as a means of identifying a digital object regardless of changes to its location on the internet”](https://search.credoreference.com/content/entry/macqdict/persistent_identifier/0?institutionId=499)*
 
+See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table)/[dataset](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_table)/[dataset_id](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_id_table)
+
 PIDs help disambiguate sources and versions of data or information.   
 
 Common PIDs for research outputs include:  
