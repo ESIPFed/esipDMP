@@ -43,6 +43,8 @@ website:
     contents:
       - text: "Welcome"
         href: index.qmd
+      # - text: "Data Life Cycle"
+      #   href: sections/data_lifecycle.qmd
       - text: "Research Outputs"
         href: sections/outputs.qmd
       - text: "Standardization of Data and Metadata"
@@ -53,12 +55,7 @@ website:
         href: sections/roles_responsibilities.qmd
       - text: "References"
         href: sections/references.qmd
-      - text: "Data Management"
-        href: sections/data_management.qmd
-      # - section: core-lessons/index.qmd
-      #   contents:        
-      #    - href: "core-lessons/mindset.qmd"
-      #      text: Mindset
+
 format:
   html:
     theme:
