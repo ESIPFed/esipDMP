@@ -5,7 +5,7 @@ title: "Resources and Tools"
 
 The following resources provide practical guidance, best practices, and foundational principles for effective research data management (RDM) and for making data Findable, Accessible, Interoperable, and Reusable (FAIR). These guides, tools, and community standards offer actionable steps and in-depth explanations to help you meet funder, institutional, and disciplinary requirements for data stewardship. Explore the links below for policy guidance, planning tools, and hands-on advice to support your research workflow. 
 
-***Feel free to reach out and suggest new resources to include in this list. Submit a suggestion through [Github issues](https://github.com/ESIPFed/esipDMP/issues/new/choose)***
+***Feel free to reach out and suggest new resources to include in this list. Submit a suggestion through [GitHub issues](https://github.com/ESIPFed/esipDMP/issues/new/choose)***
 
 
 - [EUI Library: Research Data Guide – RDM & FAIR Principles](https://eui-library.github.io/research-data-guide/):
