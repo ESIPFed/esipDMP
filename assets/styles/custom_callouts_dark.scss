@@ -5,6 +5,7 @@
 $primary:         #0e2943; 
 $secondary:       #11809a;
 $light:           #fbf7ea;
+$black:  #181818;
 
 /* Default callout styles */
 
@@ -47,6 +48,7 @@ $light:           #fbf7ea;
   padding-left: 0.5em;
   padding-right: 0.5em;
   display: flex;
+  color: $black;
   background-color: #f5e8ff;
   height: 2em;
   overflow: hidden;

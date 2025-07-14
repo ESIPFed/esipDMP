@@ -4,6 +4,7 @@
 // Variables: https://github.com/quarto-dev/quarto-cli/src/resources/formats/html/bootstrap/_bootstrap-variables.scss
 // Rules: https://github.com/quarto-dev/quarto-cli/src/resources/formats/html/bootstrap/_bootstrap-rules.scss
 
+
 /*==========================================================================
    1. VARIABLES & IMPORTS
   ==========================================================================*/
@@ -11,19 +12,21 @@
 // Fonts
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
+
 // Define font-family variables
+// stylelint-disable-next-line value-keyword-case
 $font-family-sans-serif: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 // Code fonts
 $font-family-monospace: "Fira Code", "Dank Mono", SFMono-Regular, Menlo, Monaco, Consolas, 
                         "Liberation Mono", "Courier New", monospace;
 
-// Heading fonts
+// Heading fonts                        \
 $main-headings-font-family: $font-family-sans-serif;
 $secondary-headings-font-family: $font-family-sans-serif;
 $headings-font-weight: 400;
 
-// Colors (dark theme)
+// Colors
 $white:  #ffffff;
 $gray-0: #f9f9f9;
 $gray-1: #eceeee;
@@ -43,15 +46,13 @@ $light:           #fbf7ea;
 $light-accent:    $gray-3;
 $dark:            $gray-9;
 
-
-$body-bg: $black;
-$body-color: $gray-2;
-
 // Base document colors
-$navbar-bg: $primary;
-$navbar-fg: $white;
-$sidebar-bg: $primary;
-$link-color: $secondary;
+$navbar-bg: $primary; // navbar
+$navbar-fg: $white; // navbar foreground elements
+$sidebar-bg: $primary; // sidebar
+//$navbar-hl: $secondary-accent; // highlight color when hovering over navbar links
+$link-color: $secondary; // hyperlinks
+
 
 // Contrast
 $min-contrast-ratio: 7;
@@ -65,8 +66,8 @@ $min-contrast-ratio: 7;
 // Global styles
 body {
   font-family: $font-family-sans-serif;
-  color: $body-color;
-  background-color: $body-bg;
+  color: $black;
+  background-color: $white;
   position: relative;
   font-size: 18px;
   font-weight: 400;
@@ -81,15 +82,15 @@ body::before {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: $body-bg;
+  background-color: $white;
   background-size: 60px 60px;
   background-position: 0 0, 30px 30px, 30px 30px;
   z-index: -1;
 }
 
 .main-content, .content, .quarto-container {
-  background-color: $body-bg;
-} // Main content area
+  background-color: $white;
+} // Makes sure margins are white
 
 /*==========================================================================
    3. TYPOGRAPHY
@@ -105,25 +106,25 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  color: $white;
+  color: $black;
   font-size: 44px;
   font-family: $main-headings-font-family;
 }
 
 h2 {
-  color: $white;
+  color: $black;
   font-size: 32px;
   font-family: $main-headings-font-family;
 }
 
 h3 {
-  color: $white;
+  color: $black;
   font-size: 26px;
   font-family: $secondary-headings-font-family;
 }
 
 h4, h5, h6 {
-  color: $gray-1;
+  color: $black;
   font-size: 22px;
   font-family: $secondary-headings-font-family;
 }
@@ -137,9 +138,10 @@ a {
 }
 
 a:hover {
-  color: $gray-0;
+  color: $link-color;
   text-decoration: underline;
 }
+
 
 /*==========================================================================
    4. COMPONENTS
@@ -149,8 +151,9 @@ a:hover {
    4.1 Navigation
   ------------------*/
 
-// Sidebar, Navbar
-.sidebar, .quarto-sidebar, #quarto-sidebar {
+// Navbar/sidebar, Footer and Margins
+// Put all the icons in a single row in the hamburger menu
+.sidebar {
   position: relative;
   font-family: $font-family-sans-serif;
   color: $white;
@@ -165,13 +168,10 @@ a:hover {
   letter-spacing: -0.05em;
 }
 
-.sidebar-link, .sidebar-item-text {
-  color: $white !important;
-  transition: background 0.2s, color 0.2s;
-}
-.sidebar-link:hover, .sidebar-link:focus {
-  background-color: $secondary !important;
-  color: $white !important;
+.sidebar-link:hover {
+  background-color: $secondary; 
+  //text-decoration: underline; // Optional: add underline
+  transition: all 0.2s;       // Smooth transition
 }
 
 // Items in Sidebar menu
@@ -179,24 +179,14 @@ a:hover {
   color: $white !important;
 }
 
-#TOC, .toc-active, .quarto-toc {
-  color: $white;
-}
-#TOC .nav-link, .toc-active .nav-link, .quarto-toc .nav-link {
-  color: $white;
-}
-#TOC .nav-link:hover, .toc-active .nav-link:hover, .quarto-toc .nav-link:hover {
-  color: $secondary;
-  background: $gray-8;
-}
+
 #TOC #toc-title {
-  color: $white;
+  color: #fff; // Ensures the "On this page" heading is white
 }
 
-// Footer
 .footer {
-  background-color: $dark;
-  color: $gray-2;
+  background-color: $white;
+  color: $black;
   position: relative;
 }
 
@@ -207,12 +197,13 @@ a:hover {
   left: 0;
   width: 100%;
   height: 5px;
-  background: $black;
+  background: $white;
 }
 
 /*--------------------
    4.2 Callouts
   ------------------*/
+
 // See custom_callout.scss
 
 /*==========================================================================
@@ -238,15 +229,17 @@ a:hover {
   padding-left: 1em;
 }
 
+
 /*==========================================================================
    6. RESPONSIVE STYLES
   ==========================================================================*/
 
+// Media queries
 @media screen and (max-width: 991.98px) {
   h1 {
     font-size: 2em;
   }
-
+  
   h2 {
     font-size: 1.5em;
   }
@@ -258,6 +251,8 @@ a:hover {
     padding-left: 0em;
   }
 
+  // Nice footer rows
+  // from Silvia's blog source code: https://github.com/spcanelon/silvia/blob/main/assets/silvia-theme.scss
   .nav-footer {
       flex-direction: column;
   }
@@ -283,4 +278,6 @@ a:hover {
   .navbar .quarto-navbar-tools {
     text-align: left;
   }
+
+
 }
