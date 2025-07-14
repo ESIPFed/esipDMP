@@ -122,8 +122,8 @@ See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-
 PIDs help disambiguate sources and versions of data or information.   
 
 Common PIDs for research outputs include:  
-    - [DOI](https://www.doi.org/)  
-    - [ARK](https://arks.org/about/)  
+- [DOI](https://www.doi.org/)  
+- [ARK](https://arks.org/about/)  
 
     
 
