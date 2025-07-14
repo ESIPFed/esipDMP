@@ -85,6 +85,10 @@ See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-
 
 ## Funder identification
 
+See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table)/[contact](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_contact_table)/[contact_id](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#contact_id_table)
+
+See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table)/[contributor](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_contributor_table)/[contributor_id](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#contributor_id_table)
+
 -  Persistent identifiers (PIDs) help identify the support for the research  
     -   [RAID](https://raid.org) - a project meta-PID  
     -   [RRID](https://www.rrids.org)  
