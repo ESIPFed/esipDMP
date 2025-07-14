@@ -1,0 +1,24 @@
+---
+title: "Acronyms"
+---
+
+| Acronym | Name                                                        |
+|---------|-------------------------------------------------------------|
+| [ADC](https://arcticdata.io/)      | Arctic Data Center                                          |
+| [ASIA-AQ](https://www-air.larc.nasa.gov/missions/asia-aq/index.html)  | Airborne and Satellite Investigation of Asian Air Quality   |
+| [BCO-DMO](https://www.bco-dmo.org/)  | Biological and Chemical Oceanography Data Management Office |
+| [IOOS](https://ioos.noaa.gov/)     | U.S. Integrated Ocean Observing System                      |
+| [LTER](https://lternet.edu/)     | Long Term Ecological Research Network                       |
+| [MCR](https://mcr.lternet.edu/)      | Moorea Coral Reef                                           |
+| [NASA](https://www.nasa.gov/)     | National Aeronautics and Space Administration               |
+| [NCEI](https://www.ncei.noaa.gov/)     | National Centers for Environmental Information              |
+| [NOAA](https://www.noaa.gov/)     | National Oceanic and Atmospheric Administration             |
+| [NGA](https://nga.lternet.edu/)      | Northern Gulf of Alaska                                     |
+| [NSF](https://www.nsf.gov/)      | National Science Foundation                                 |
+| [ORCID](https://orcid.org/)    | Open Researcher and Contributor ID                          |
+| [ROR](https://ror.org/)      | Research Organization Registry                              |
+| [SCCOOS](https://sccoos.org/)   | Southern California Coastal Ocean Observing System          |
+
+
+Links go directly to DMP-related information.   
+Please request additional terms / resources using our [GitHub feedback issues](https://github.com/ESIPFed/esipDMP/issues/new/choose).
