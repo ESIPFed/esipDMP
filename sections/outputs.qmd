@@ -79,9 +79,6 @@ Comments
 **Note in the general example below, the DMP author's description of data types, number of experiments performed, file types generated, and repositories for submission.**
 ::::
 :::
-=======
-::: {.callout-note}
-### General example
 
 
 ::: {.callout-note}
