@@ -5,8 +5,10 @@ title: "Acronyms"
 | Acronym | Name                                                        |
 |---------|-------------------------------------------------------------|
 | [ADC](https://arcticdata.io/)      | Arctic Data Center                                          |
+| [ARK](https://arks.org/about/)    | Archival Resource Key                       |
 | [ASIA-AQ](https://www-air.larc.nasa.gov/missions/asia-aq/index.html)  | Airborne and Satellite Investigation of Asian Air Quality   |
 | [BCO-DMO](https://www.bco-dmo.org/)  | Biological and Chemical Oceanography Data Management Office |
+| [DOI](https://www.doi.org/)   | Digital Object Identifier                                 |
 | [IOOS](https://ioos.noaa.gov/)     | U.S. Integrated Ocean Observing System                      |
 | [LTER](https://lternet.edu/)     | Long Term Ecological Research Network                       |
 | [MCR](https://mcr.lternet.edu/)      | Moorea Coral Reef                                           |
@@ -19,6 +21,5 @@ title: "Acronyms"
 | [ROR](https://ror.org/)      | Research Organization Registry                              |
 | [SCCOOS](https://sccoos.org/)   | Southern California Coastal Ocean Observing System          |
 
-
-Links go directly to DMP-related information.   
-Please request additional terms / resources using our [GitHub feedback issues](https://github.com/ESIPFed/esipDMP/issues/new/choose).
+   
+Please suggest including additional terms using our [GitHub feedback issues](https://github.com/ESIPFed/esipDMP/issues/new/choose).
