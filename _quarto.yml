@@ -37,18 +37,26 @@ website:
     search: true
     collapse-level: 1
     contents:
-      - text: "Welcome"
-        href: index.qmd
-      - text: "Data Life Cycle"
-        href: sections/data_lifecycle.qmd
-      - text: "Research Outputs"
-        href: sections/outputs.qmd
-      - text: "Standardization of Data and Metadata"
-        href: sections/standardization.qmd
-      - text: "Access to Research Outputs"
-        href: sections/access.qmd
-      - text: "Roles and Responsibilities"
-        href: sections/roles_responsibilities.qmd
+      - section: "Introduction"
+        contents:
+         - href: index.qmd
+           text: "Welcome"
+         - href: sections/introduction/data_lifecycle.qmd
+           text: "Data Life Cycle"
+         - href: sections/introduction/feedback.qmd
+           text: "Feedback"
+         - href: sections/introduction/how_to.qmd
+           text: "How to use this guide"
+      - section: "DMP Content"
+        contents:
+         - href: sections/dmp_content/outputs.qmd
+           text: "Research Outputs"
+         - href: sections/dmp_content/standardization.qmd
+           text: "Standardization of Data and Metadata"
+         - href: sections/dmp_content/access.qmd
+           text: "Access to Research Outputs"
+         - href: sections/dmp_content/roles_responsibilities.qmd
+           text: "Roles and Responsibilities"
       - section: "References"
         contents:
          - href: sections/references_resources/works_cited.qmd
