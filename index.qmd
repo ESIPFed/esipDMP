@@ -43,7 +43,7 @@ This resource was created as a working group partnership between the [ESIP Marin
 
 ESIP DMP Resource working group members:
 Elisha M Wood-Charlson - ESIP Data Stewardship Committee Chair (2024-2025); ORCID:000-0001-9557-7715
-Bolivar Aponte, ORCID: 
+Bolivar Aponte, ORCID: 0000-0002-2544-4551
 Rachael Blake, ORCID: 0000-0003-0847-9100
 Carolina Berys, ESIP Marine Data Cluster Co-Chair, ORCID: 0000-0001-5889-835X
 Joseph Gum, ESIP Marine Data Cluster Co-Chair, ORCID: 0000-0002-3045-0593
