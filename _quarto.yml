@@ -43,10 +43,10 @@ website:
            text: "Welcome"
          - href: sections/introduction/data_lifecycle.qmd
            text: "Data Life Cycle"
-         - href: sections/introduction/feedback.qmd
-           text: "Feedback"
          - href: sections/introduction/how_to.qmd
            text: "How to use this guide"
+         - href: sections/introduction/feedback.qmd
+           text: "Feedback"
       - section: "DMP Content"
         contents:
          - href: sections/dmp_content/outputs.qmd
