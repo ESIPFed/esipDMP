@@ -20,7 +20,7 @@ See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-
 -  Research papers, conference posters, pre-prints, and multimedia content
 
 ::: {.callout-note}
-## BCO-DMO: [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link)
+## BCO-DMO: [Mullineaux #2453](../references_resources/works_cited.qmd){target="_blank"}
 *Imagery at the seafloor will include NDSF vehicle imagery (e.g., 4K video) and PI-provided imagery (e.g., time-lapse still).*
 :::
 
@@ -31,7 +31,7 @@ See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-
 -  Statistical, mathematical, or computational models
 
 ::: {.callout-note}
-## BCO-DMO: [Bianchi](https://drive.google.com/file/d/1pR_HCs9ayvXZXwkAENdRYJ9utfwax6-B/view?usp=share_link)
+## BCO-DMO: [Bianchi](../references_resources/works_cited.qmd){target="_blank"}
 *Output from model simulations, which will include both physical (T, S, velocities) and biogeochemical (tracer, rates, fluxes) variables. The raw output will be post-processed and analyzed for presentation at meetings and for publication in scientific journals. For model output from the main set of simulations (Table 1 in the proposal), standard model fields (e.g. physical and biogeochemical tracers, current velocities, and the main biogeochemical rates) at monthly resolution will be provided to, and made available through, BCO-DMO and NOAA NCEI in standard NetCDF format.*
 :::
 
@@ -39,7 +39,7 @@ See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-
 -  Physical samples (e.g., biological, chemical, geological)
 
 ::: {.callout-note}
-## BCO-DMO: [Mullineaux #2453](https://drive.google.com/file/d/1-N-bHKeJbC1QTouZVT5Ae2MMSAG9CEYA/view?usp=share_link)
+## BCO-DMO: [Mullineaux #2453](../references_resources/works_cited.qmd){target="_blank"}
 *Physical samples will include animals, rocks, and water column samples. Rocks and animal specimens for which we extract gut contents will be assigned unique sample identifiers, important for provenance for subsamples to be analyzed for microbes.*
 :::
 
@@ -64,7 +64,7 @@ See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-
 -  Physical dimensions or quantities for physical samples.
     
 ::: {.callout-note}
-## LTER: [Sosik](https://drive.google.com/file/d/1-kTwz8I46snB0tfNk4U8bk8suVjF8xjG/view?usp=drive_link)
+## LTER: [Sosik](../references_resources/works_cited.qmd){target="_blank"}
 *By mid-year 6 of our project, our IM team stores \~60 TB of data (\~55 on premises and \~5 cloud). For WHOI’s institutional research data storage (RDS) on premises, we have \>40 TB to share within WHOI a subset of our towed plankton imaging data, 12 TB for a subset of our coupled physical-biological model output, and 1 TB for (low-volume) data products including those served by our web-based REST API. However, additional storage is required for plankton imagery (e.g., PI Sosik’s network attached storage serving \~10 TB publicly available IFCB data), acoustic data collected by vessels and Stingray towed vehicle, and physical and coupled biological-physical model output; these and some other high-volume data types (e.g., high throughput sequencing data) are necessarily managed by PIs*.
 :::
 
@@ -82,7 +82,7 @@ Comments
 
 
 ::: {.callout-note}
-## BCO-DMO: [Alexander]()
+## BCO-DMO: [Alexander](../references_resources/works_cited.qmd){target="_blank"}
 
 *Description of data types, number of experiments performed, file types generated, and repositories for submission*
 
@@ -101,7 +101,7 @@ See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-
 -  Information about instruments or sensors used to collect data.
 
 ::: {.callout-note}
-## BCO–DMO: [Church](https://drive.google.com/file/d/1lFfmFJ0FRqvj4HQU6FX-QFne-2XYPQ6y/view?usp=share_link)
+## BCO–DMO: [Church](../references_resources/works_cited.qmd){target="_blank"}
 *All underway optical data including imaging flow cytometry will be time-synchronized with the ship’s GPS and thermosalinograph. At sea all data will be visualized in real time to evaluate data quality and instrument stability; data will be stored on a customized raspberry-PI based data logger and backed up onto a separate hard drive. Post-cruise, all continuous optical data will be merged to 1-min averages and submitted to BCO-DMO; Imaging flow cytometry data are sampled at \~20 min intervals; a composite cruise file of all imaged particles and their individual morphometrics and optical properties will be generated and submitted to BCO-DMO.*
 :::
 
@@ -109,7 +109,7 @@ See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-
 -  Details about sampling methods, locations, and conditions
 
 ::: {.callout-note}
-## BCO-DMO: [Reitzel](https://drive.google.com/file/d/19I3y-pgxbPr-T7yITp5LMhfS7gT4TqOm/view?usp=share_link)
+## BCO-DMO: [Reitzel](../references_resources/works_cited.qmd){target="_blank"}
 *Sequence data will be annotated with essential information for each sample, which will include description of the sample (e.g., location of origin for population, date), method for library generation, and the sequencing method. These data tags for description will be included with data submitted to SRA and BCO-DMO. Nucleic acids extracted from collected animals will be labeled with precise site of origin (latitude, longitude), date of collection, and species and archived in the Reitzel and Burt laboratories. Field temperature data will be stored in flat ASCII files, which can be read easily by different software packages. Field data will include date, time, latitude, longitude, and temperature, as appropriate.*
 :::
 
@@ -122,8 +122,8 @@ See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-
 PIDs help disambiguate sources and versions of data or information.   
 
 Common PIDs for research outputs include:  
--  [DOI](https://www.doi.org/)  
--  [ARK](https://arks.org/about/)  
+-  [DOI](https://www.doi.org/){target="_blank"}  
+-  [ARK](https://arks.org/about/){target="_blank"}  
 
     
 
