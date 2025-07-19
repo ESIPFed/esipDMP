@@ -13,7 +13,7 @@ Wood-Charlson EM, Crockett Z, Erdmann C, Arkin AP, Robinson CB (2022) **Ten simp
 
 *The key roles are included below: Principal Investigator, Data Manager, Point of Contact for the DMP.  Other roles that could be included here include: Data Provider, Data Collector, Data Analyst, Data Engineer, GIS Analyst, Contractor, Consultant.*
 
-See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table)/[contributor](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_contributor_table)
+See [DMP Common Standard](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table): [`contributor`](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_contributor_table)
 
 -   Consider using persistent identifiers (PIDs), such as [ORCiD](https://orcid.org), to identify and disambiguate personnel
 
@@ -52,7 +52,7 @@ See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-
 
 ### Point of Contact for the DMP
 
-See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table)/[contact](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_contact_table)
+See [DMP Common Standard](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table): [`contact`](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_contact_table)
 
 -  Primary individual responsible for DMP updates and communication.
 
@@ -76,7 +76,7 @@ See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-
 
 ## Plan for Personnel Turnover/Transfer
 
-See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table)/[dataset](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_table)/[preservation_statement](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_preservation)
+See [DMP Common Standard](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table): [`preservation_statement`](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_preservation)
 
 -  Procedures for transferring responsibilities in case of personnel changes.
 
@@ -85,9 +85,7 @@ See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-
 
 ## Funder identification
 
-See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table)/[contact](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_contact_table)/[contact_id](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#contact_id_table)
-
-See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table)/[contributor](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_contributor_table)/[contributor_id](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#contributor_id_table)
+See [DMP Common Standard](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table): [`contact_id`](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#contact_id_table) & [`contributor_id`](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#contributor_id_table)
 
 -  Persistent identifiers (PIDs) help identify the support for the research  
     -   [RAID](https://raid.org) - a project meta-PID  

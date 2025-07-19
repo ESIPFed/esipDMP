@@ -10,7 +10,7 @@ Generally, the request from funding organizations is framed something like this:
 
 ### Formats
 
-See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table)/[dataset](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_table)/[distribution](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#distribution_table)/[format](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#distribution_format)
+See [DMP Common Standard](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table): [`format`](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#distribution_format)
 
 -   Use of widely accepted formats (e.g., CSV, JSON, HDF5 for data; XML, JSON-LD for metadata).
 
@@ -21,7 +21,7 @@ See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-
 
 ### Standards
 
-See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table)/[dataset](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_table)/[metadata](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#metadata_table)
+See [DMP Common Standard](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table): [`metadata`](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#metadata_table)
 
 -  Adherence to domain-specific standards (e.g., Darwin Core for biodiversity data, DICOM for medical imaging).
 
@@ -42,7 +42,7 @@ See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-
 
 ## QA/QC Methods
 
-See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table)/[dataset](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_table)/[data_quality_assurance](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_quality_assurance)
+See [DMP Common Standard](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table): [`data_quality_assurance`](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_quality_assurance)
 
 -  Implementation of quality assurance and quality control processes.
 -  Regular audits and validation checks to ensure data integrity.
