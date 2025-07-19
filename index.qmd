@@ -10,16 +10,18 @@ slug: index
 This resource is currently under development, and we welcome your feedback and suggestions! (see below on how to submit feedback)
 :::
 
-Good data management requires planning, and most funding agencies require structured, comprehensive details describing how research outputs, like data, software, samples, etc. will be collected, stored, shared, and archived. These details are often compiled in Data Management Plans otherwise known as "DMPs". Note that
+Good data management requires planning, and most funding agencies require structured, comprehensive details describing how research outputs, like data, software, samples, etc. will be collected, stored, shared, and archived. these details are often compiled in Data Management Plans, otherwise known as "DMPs". Note that
 different agencies and organizations may have slightly different titles and acronyms for DMPs (see acronym list for more examples).
+
 
 This resource offers examples of DMPs from ESIP-relevant funding agencies (listed below), with the goal of providing:
 
 1. an overview of the sections/topics that should be covered in a DMP, 
-2. a brief description of best practices for those sections/topics, and
+2. a brief description of best practices for those sections/topics, and 
 3. examples of DMPs from proposals funded by ESIP-relevant funding agencies.
 
-#### ESIP-relevant funding agencies represented:
+#### ESIP-relevant data management plan sources (as of July 2025):
+*Note: Many of these DMP sources provide services to help with DMP creation.  Please contact them directly for support.*
 
 * National Science Foundation ([NSF](https://www.nsf.gov/funding/data-management-plan){target="_blank"})   
   * Arctic Data Center ([ADC](https://arcticdata.io/data-plans/){target="_blank"})  
@@ -31,11 +33,16 @@ This resource offers examples of DMPs from ESIP-relevant funding agencies (liste
 
 #### DMPTool
 
-One resource to help with your DMP generation is the DMPTool, provided by the California Digital Library. [DMPTool](https://dmptool.org) provides templates from a number of agencies, including those listed above, examples of published DMPs, and allows you to request a DOI for your DMP (highly recommended\!).  DMPTool is also working on creating machine-actionable DMPs (ma-DMPs), which will greatly improve the ability of funders and publishers to better track the impact of the research outputs from your science, as described in your DMP\! Stay tuned for exciting advancements in this area, and [read](https://blog.dmptool.org/2025/04/03/working-toward-a-common-standard-api-for-machine-actionable-dmps/) here for more information.
+DMPTool is a general resource to help with DMP creation, provided by the California Digital Library. [DMPTool](https://dmptool.org) provides templates from a number of agencies, including those listed above, examples of published DMPs, and allows you to request a DOI for your DMP (highly recommended\!).  DMPTool is also working on creating machine-actionable DMPs (ma-DMPs), which will greatly improve the ability of funders and publishers to better track the impact of the research outputs from your science, as described in your DMP\! Stay tuned for exciting advancements in this area, and [read](https://blog.dmptool.org/2025/04/03/working-toward-a-common-standard-api-for-machine-actionable-dmps/) here for more information.
 
 #### Acknowledgements
-This resource was created as a working group partnership between the [ESIP Marine Data Cluster](https://www.esipfed.org/collaboration-areas/marine-data/) and the [ESIP Data Stewardship Committee](https://www.esipfed.org/collaboration-areas/data-stewardship/). We are grateful to our ESIP Winter 2025 session speakers and participants for your help generating the best practices and ideas captured in this resource. We would also like to thank the Research Data Alliance (RDA) [DMP Common Standards Working Group](https://www.rd-alliance.org/groups/dmp-common-standards-wg/members/all-members/) for their guidance and continued efforts to advance DMPs.
 
-*This resource leverages work currently being evolved by the DMP Common Standard. All sections with relevant DMP Common Standard components are linked to their GitHub definitions.* 
+This resource was created as a working group partnership between the [ESIP Marine Data Cluster](https://www.esipfed.org/collaboration-areas/marine-data/) and the [ESIP Data Stewardship Committee](https://www.esipfed.org/collaboration-areas/data-stewardship/). We are grateful to our ESIP Winter 2025 session speakers and participants for their help generating the best practices and ideas captured in this resource. We would also like to thank the Research Data Alliance (RDA) [DMP Common Standards Working Group](https://www.rd-alliance.org/groups/dmp-common-standards-wg/members/all-members/) for their guidance and continued efforts to advance DMPs.
 
----
+ESIP DMP Resource working group members:
+Elisha M Wood-Charlson - ESIP Data Stewardship Committee Chair (2024-2025); ORCID:000-0001-9557-7715
+Bolivar Aponte, ORCID: 0000-0002-2544-4551
+Rachael Blake, ORCID: 0000-0003-0847-9100
+Carolina Berys, ESIP Marine Data Cluster Co-Chair, ORCID: 0000-0001-5889-835X
+Joseph Gum, ESIP Marine Data Cluster Co-Chair, ORCID: 0000-0002-3045-0593
+

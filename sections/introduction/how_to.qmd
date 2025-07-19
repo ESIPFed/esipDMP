@@ -1,3 +1,6 @@
 ---
 title: "How To"
 ---
+:::{.callout-note}
+*This resource leverages work currently being evolved by the DMP Common Standard. All sections with relevant DMP Common Standard components are linked to their GitHub definitions.* 
+:::
