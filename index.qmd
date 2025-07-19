@@ -44,7 +44,6 @@ This resource was created as a working group partnership between the [ESIP Marin
 - **Elisha M Wood-Charlson** [{{< iconify fa6-brands orcid style="color: #A6CE39;" width="18" >}}](https://orcid.org/0000-0001-9557-7715)
   *ESIP Data Stewardship Committee Chair (2024-2025)*  
   
-
 - **Bolívar Aponte Rolón**  [{{< iconify fa6-brands orcid style="color: #A6CE39;" width="18" >}}](https://orcid.org/0000-0002-2544-4551)
 
 - **Rachael Blake** [{{< iconify fa6-brands orcid style="color: #A6CE39;" width="18" >}}](https://orcid.org/0000-0003-0847-9100)
