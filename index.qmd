@@ -39,10 +39,16 @@ DMPTool is a general resource to help with DMP creation, provided by the Califor
 
 This resource was created as a working group partnership between the [ESIP Marine Data Cluster](https://www.esipfed.org/collaboration-areas/marine-data/) and the [ESIP Data Stewardship Committee](https://www.esipfed.org/collaboration-areas/data-stewardship/). We are grateful to our ESIP Winter 2025 session speakers and participants for their help generating the best practices and ideas captured in this resource. We would also like to thank the Research Data Alliance (RDA) [DMP Common Standards Working Group](https://www.rd-alliance.org/groups/dmp-common-standards-wg/members/all-members/) for their guidance and continued efforts to advance DMPs.
 
-ESIP DMP Resource working group members:
-Elisha M Wood-Charlson - ESIP Data Stewardship Committee Chair (2024-2025); ORCID:000-0001-9557-7715
-Bolivar Aponte, ORCID: 0000-0002-2544-4551
-Rachael Blake, ORCID: 0000-0003-0847-9100
-Carolina Berys, ESIP Marine Data Cluster Co-Chair, ORCID: 0000-0001-5889-835X
-Joseph Gum, ESIP Marine Data Cluster Co-Chair, ORCID: 0000-0002-3045-0593
+**ESIP DMP Resource Working Group Members:**
 
+- **Elisha M Wood-Charlson** [{{< iconify fa6-brands orcid style="color: #A6CE39;" width="18" >}}](https://orcid.org/0000-0001-9557-7715)
+  *ESIP Data Stewardship Committee Chair (2024-2025)*  
+  
+
+- **Bolívar Aponte Rolón**  [{{< iconify fa6-brands orcid style="color: #A6CE39;" width="18" >}}](https://orcid.org/0000-0002-2544-4551)
+
+- **Rachael Blake** [{{< iconify fa6-brands orcid style="color: #A6CE39;" width="18" >}}](https://orcid.org/0000-0003-0847-9100)
+
+- **Carolina Berys** [{{< iconify fa6-brands orcid style="color: #A6CE39;" width="18" >}}](https://orcid.org/0000-0001-5889-835X) *ESIP Marine Data Cluster Co-Chair*  
+
+- **Joseph Gum**  [{{< iconify fa6-brands orcid style="color: #A6CE39;" width="18" >}}](https://orcid.org/0000-0002-3045-0593)
