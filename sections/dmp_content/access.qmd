@@ -18,7 +18,7 @@ See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-
 -  Mechanisms for sharing outputs (e.g., repositories, cloud storage).
 
 ::: {.callout-note}
-## BCO-DMO: [Church](https://drive.google.com/file/d/1lFfmFJ0FRqvj4HQU6FX-QFne-2XYPQ6y/view?usp=share_link)
+## BCO-DMO: [Church](../references_resources/works_cited.qmd){target="_blank"}
 *To increase accessibility to project data and the dissemination of our research findings—particularly among scientists from developing countries—we will make every effort to publish our results as open-access articles or within open-access journals.*
 :::
 
@@ -31,11 +31,11 @@ See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-
 -  Where the data will be stored (e.g., institutional repository, public archive).
 
 ::: {.callout-note}
-## BCO-DMO: [Saito](https://drive.google.com/file/d/1xJ8EiH436Fr95XrIEsvyYHoQv0mErSwB/view?usp=share_link)
+## BCO-DMO: [Saito](../references_resources/works_cited.qmd){target="_blank"}
 *R2R will ensure that the original underway measurements are archived permanently at NCEI and/or NGDC as appropriate. BCO-DMO will also ensure that project data are submitted to the appropriate national data archive. The PI will work with R2R and BCO-DMO to ensure data are archived appropriately and that proper and complete documentation are archived along with the data. All processed data will be submitted to BCO-DMO. Sequence data will be submitted to NCBI and raw mass spectrometry data will be submitted to ProteomeXchange.*
 :::
 ::: {.callout-note}   
-## BCO-DMO: [Reitzel](https://drive.google.com/file/d/19I3y-pgxbPr-T7yITp5LMhfS7gT4TqOm/view?usp=share_link)
+## BCO-DMO: [Reitzel](../references_resources/works_cited.qmd){target="_blank"}
 *Sequence data will be archived at NCBI GenBank or SRA, code will be archived on GitHub and processed data files (e.g., vcf files) will be deposited in Dryad. BCO-DMO ensures that the data are archived properly at the appropriate National Data Archive for long-term archive preservation.*
 :::
 
@@ -52,12 +52,12 @@ See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-
 -  When will products be shared or published (e.g., immediately, after embargo period).
 
 ::: {.callout-note}
-## BCO-DMO: [Church](https://drive.google.com/file/d/1lFfmFJ0FRqvj4HQU6FX-QFne-2XYPQ6y/view?usp=share_link)
+## BCO-DMO: [Church](../references_resources/works_cited.qmd){target="_blank"}
 *All of the data generated in this study will be made publicly available upon publication in a peer-reviewed journal, or within two years of the completion of the project. […] Shipboard underway data will be made available within one year via the Rolling Deck to Repository.*
 :::
 
 ::: {.callout-note}
-## BCO-DMO: [Greer](https://drive.google.com/file/d/1OTn2YkAbrXQBt3CN2hL4ras1sewSg5Vi/view?usp=share_link)
+## BCO-DMO: [Greer](../references_resources/works_cited.qmd){target="_blank"}
 *Once the data have been collected and quality controlled, we will ensure all data are publicly available within two years. In general, we do not intend to impose any data embargos, with the exception of student generated data that will be used for the completion of student theses and publications.*
 :::
 
@@ -70,7 +70,7 @@ See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-
 -  Licensing terms (e.g., Creative Commons, MIT License).
 
 ::: {.callout-note}
-## BCO–DMO: [Church](https://drive.google.com/file/d/1lFfmFJ0FRqvj4HQU6FX-QFne-2XYPQ6y/view?usp=share_link)
+## BCO–DMO: [Church](../references_resources/works_cited.qmd){target="_blank"}
 *All data from this project are considered within the public domain for all not-for-profit uses and there will be no permission restrictions placed on use of the data.*
 :::
 
@@ -86,7 +86,7 @@ Comments
 :::
 
 ::: {.callout-note}
-## [MCR-LTER](https://drive.google.com/file/d/1rNYVmb7wMWjaDMhHGMEFG5hsnr8yhz56/view?usp=share_link)
+## [MCR-LTER](../references_resources/works_cited.qmd){target="_blank"}
 *Our data access/data use policy is the Creative Commons license CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/). The user is free to use and adapt the data while giving appropriate credit without any other restrictions. In our data use policy, we make a few additional recommendations for collaboration and suggest that users contact the appropriate MCR personnel if they have any questions or concerns about the data, but these recommendations do not change the general license text.*
 :::
 
@@ -104,12 +104,12 @@ See DMP Common Standard: [dmp](https://github.com/RDA-DMP-Common/RDA-DMP-Common-
 -  Limitations on access due to confidentiality (e.g. personal data) or proprietary concerns (e.g. business-critical data).  
 
 ::: {.callout-note}
-## BCO-DMO: [Greer](https://drive.google.com/file/d/1OTn2YkAbrXQBt3CN2hL4ras1sewSg5Vi/view?usp=share_link)
+## BCO-DMO: [Greer](../references_resources/works_cited.qmd){target="_blank"}
 *We do not expect that the data we will generate will require any exceptional arrangements due to questions of ethical restrictions or release of indigenous knowledge.*
 :::
 
 ::: {.callout-note}
-## BCO-DMO:  [Church](https://drive.google.com/file/d/1lFfmFJ0FRqvj4HQU6FX-QFne-2XYPQ6y/view?usp=share_link)
+## BCO-DMO:  [Church](../references_resources/works_cited.qmd){target="_blank"}
 *There are no ethical and privacy issues with these data. There are no human research subjects in our study. The dataset from this project will not be copyrighted.*
 :::
 
