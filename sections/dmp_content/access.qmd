@@ -95,7 +95,7 @@ Comments
 *Describe any restrictions, embargoes, or other methods that will be applied to the data and research outputs, the methods for applying them, and for how long they will be applied. *
 
 
-See [DMP Common Standard](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table): [`data_access`](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#distribution_data_access), [`personal_data`](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_personal_data), &[`sensitive_data`](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_sensitive_data)
+See [DMP Common Standard](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table): [`data_access`](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#distribution_data_access), [`personal_data`](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_personal_data), & [`sensitive_data`](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_sensitive_data)
 
 -  Limitations on access due to confidentiality (e.g. personal data) or proprietary concerns (e.g. business-critical data).  
 
