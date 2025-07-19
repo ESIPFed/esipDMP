@@ -1,6 +1,32 @@
 ---
-title: "How To"
+title: "How To Use this Guide"
 ---
-:::{.callout-note}
-*This resource leverages work currently being evolved by the DMP Common Standard. All sections with relevant DMP Common Standard components are linked to their GitHub definitions.* 
+
+### Overview of the ESIP DMP
+
+The goal of this resource is to make writing DMPs easier. Throughout the DMP Content sections: *Research Outputs, Standardization of Data and Metadata, Access to Research Outputs, and Roles and Responsibilities*, this resource provides snippets of DMP language taken directly from proposals funded by Earth (and ocean) science agencies, with examples that are relevant to the ESIP community. 
+
+The introductory sections provide some general background on how and where this resource originated, what data management resources are represented, and guides on how to use (this page), and how to provide feedback.
+
+The DMP Content sections represent content most often seen across funding agency DMP templates, and a “good” DMP usually addresses all of these elements. Locate the section you need and review the high-level bullets to understand more what typically goes into that section. Most sections also have short examples taken from funded DMPs, to help guide on the content and granularity typically written on that topic. 
+
+Also within the DMP Content sections, we have started to provide additional resources that represent best practices in DMPs, and early adopter recommendations for making your DMP “AI-ready”. The technology behind AI-ready DMPs (also called “machine-actionable DMPs”, or maDMPs) is still evolving, but it will greatly accelerate the ability of funders to rapidly and accurately track all research outputs from a funded project. 
+
+One feature being developed by the [RDA DMP Common Standards Working Group](https://www.rd-alliance.org/groups/dmp-common-standards-wg/members/all-members/) is the [RDA DMP Common Standard](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table). These are sprinkled throughout this resource as links to the RDA site, which is curating a standardized vocabulary to represent DMPs[^1].
+
+:::{.commentbox}
+::::{.commentbox-header}
+:::::{.commentbox-icon}
+:::::
+Comments
+::::
+::::{.commentbox-body}
+e.g., See [`dataset_id`](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_id_tree) in [RDA DMP Common Standard](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table), this should take you to the Common Standard definition for a “properties in ‘dataset’”. 
+
+Fields in this table should look familiar\! Datasets should have an ID, a description, release date, metadata, etc. These standardized terms are being built into AI-ready / ma-DMPs, so those fields can be detected and used by AI. If you have a data manager, or you reach out to the data resources listed on the Welcome page, they can help you make your DMP AI-ready\!
+::::
 :::
+
+The last section of this resource is entirely dedicated to more resources\! It contains links out to the DMPs represented, additional tools that are available for crafting DMPs, and a handy acronym / term list.
+
+[^1]: This resource leverages work currently being evolved by the DMP Common Standard. All sections with relevant DMP Common Standard components are linked to their definitions on GitHub. 
