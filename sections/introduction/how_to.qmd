@@ -12,7 +12,7 @@ The DMP Content sections represent content most often seen across funding agency
 
 Also within the DMP Content sections, we have started to provide additional resources that represent best practices in DMPs, and early adopter recommendations for making your DMP “AI-ready”. The technology behind AI-ready DMPs (also called “machine-actionable DMPs, or maDMPs) is still evolving, but it will greatly accelerate the ability of funders to rapidly and accurately track all research outputs from a funded project. 
 
-One feature being developed is the the [RDA DMP Common Standards Working Group](https://www.rd-alliance.org/groups/dmp-common-standards-wg/members/all-members/) is the [RDA DMP Common Standard](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table). These are sprinkled throughout this resource as links to the RDA site, which is curating a standardized vocabulary to represent DMPs[^1]. 
+One feature being developed by the [RDA DMP Common Standards Working Group](https://www.rd-alliance.org/groups/dmp-common-standards-wg/members/all-members/) is the [RDA DMP Common Standard](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table). These are sprinkled throughout this resource as links to the RDA site, which is curating a standardized vocabulary to represent DMPs[^1].
 
 :::{.commentbox}
 ::::{.commentbox-header}
