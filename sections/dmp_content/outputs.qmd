@@ -6,7 +6,7 @@ title: "Research Outputs"
 
 *Research outputs include a variety of data and materials generated during the research process. Given the planned project and data collection, provide the most accurate estimate possible of the types of research outputs. This information will help calculate data/sample storage needs, and may help determine where the data can be published or archived.  *
 
-See DSee [DMP Common Standard](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table): [`dataset`](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_table)
+See [DMP Common Standard](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table): [`dataset`](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_table)
 
 ### Collections
 -  Curated sets of samples or data
