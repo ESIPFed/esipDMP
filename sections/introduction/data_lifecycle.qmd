@@ -4,27 +4,27 @@ title: "Data Life Cycle"
 
 Data management involves having a comprehensive plan (a.k.a. DMP) that addresses each stage of the research data lifecycle. 
 
-*The data lifecycle begins with data management [planning](https://rdmkit.elixir-europe.org/planning)!* 
+*The data lifecycle begins with data management [planning](https://rdmkit.elixir-europe.org/planning){target="_blank"}!* 
 
 :::: {.columns}
 ::: {.column width="50%"}
 When creating your data management plan, consider these key components: 
 
-* **Collection** - methods and tools  
-* **Processing** - QA/QC, file formats, standards  
-* **Analysis** - software, models, etc  
-* **Preservation** - safety, integrity, accessibility, persistent identifiers  
-* **Sharing** - policies, licensing, repository  
-* **Reuse** - Metadata, provenance
+* [**Collection**]{.dlc-collection} - methods and tools
+* [**Processing**]{.dlc-processing} - QA/QC, file formats, standards
+* [**Analysis**]{.dlc-analysis} - software, models, etc
+* [**Preservation**]{.dlc-preservation} - safety, integrity, accessibility, persistent identifiers
+* [**Sharing**]{.dlc-sharing} - policies, licensing, repository
+* [**Reuse**]{.dlc-reuse} - Metadata, provenance
 
 :::{.commentbox}
 ::::{.commentbox-header}
 :::::{.commentbox-icon}
 :::::
-Comments
+Click on on the wheel ->
 ::::
 ::::{.commentbox-body}
-The ELIXIR Europe Data Lifecycle graphic on the right[^1] has clickable segments to learn more about each stage. The ESIP DMP resource covers the same topics, but has been tailored to ESIP-relevant data management resources.
+The ELIXIR Europe Data Lifecycle graphic on the right[^1] has *clickable* segments to learn more about each stage. The ESIP DMP resource covers the same topics, but has been tailored to ESIP-relevant data management resources.
 ::::
 :::
 
@@ -209,4 +209,4 @@ The ELIXIR Europe Data Lifecycle graphic on the right[^1] has clickable segments
 :::
 ::::
 
-[^1]: The diagram and links are from ELIXIR Europe, which built a Research Data Management toolkit (RDMkit) that describes best practices and guidelines for managing data and making it FAIR (Findable, Accessible, Interoperable and Reusable). Details available at: *[RDMkit: The ELIXIR Research Data Management toolkit for Life Sciences](https://rdmkit.elixir-europe.org)*
+[^1]: The diagram and links are from ELIXIR Europe, which built a Research Data Management toolkit (RDMkit) that describes best practices and guidelines for managing data and making it FAIR (Findable, Accessible, Interoperable and Reusable). Details available at: *[RDMkit: The ELIXIR Research Data Management toolkit for Life Sciences](https://rdmkit.elixir-europe.org){target="_blank"}*

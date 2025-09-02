@@ -53,6 +53,14 @@ $navbar-fg: $white;
 $sidebar-bg: $primary;
 $link-color: $secondary;
 
+// Data Life Cycle colors
+.dlc-collection { color: #FAC54B; }
+.dlc-processing { color: #8ABA56; }
+.dlc-analysis { color: #32B890; }
+.dlc-preservation { color: #4176A5; }
+.dlc-sharing { color: #9E51AD; }
+.dlc-reuse { color: #FA484B; }
+
 // Contrast
 $min-contrast-ratio: 7;
 

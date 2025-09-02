@@ -4,7 +4,7 @@ title: "Feedback"
 
 ### How to submit feedback 
 
-Navigate to our [issues page](https://github.com/ESIPFed/esipDMP/issues) and open an issue related to your feedback. **This requires an active GitHub account**.
+Navigate to our [issues page](https://github.com/ESIPFed/esipDMP/issues){target="_blank"} and open an issue related to your feedback. **This requires an active GitHub account**.
 
 **Types of issues include:**  
 - Non-trivial revision - larger revisions to content or concepts  

@@ -1,6 +1,6 @@
 ---
 title: "Data Management: Planning for success"
-subtitle: "Welcome to the [Earth Science Information Partners'](https://www.esipfed.org/) data management planning resource."
+subtitle: Welcome to the [Earth Science Information Partners'](https://www.esipfed.org/){target="_blank"} data management planning resource.
 slug: index
 ---
 
@@ -28,26 +28,26 @@ This resource offers examples of DMPs from ESIP-relevant funding agencies (liste
   * Biological and Chemical Oceanography Data Management Office ([BCO-DMO](https://www.bco-dmo.org/how-to/prepare/data_management_plan){target="_blank"})  
   * Long Term Ecological Research ([LTER](https://lternet.edu/writing-a-data-management-plan-for-your-nsf-proposal/){target="_blank"})  
 * National Aeronautics and Space Administration ([NASA](https://science.nasa.gov/researchers/sara/faqs/osdmp/){target="_blank"})  
-* National Oceanic and Atmospheric Administration ([NOAA](https://www.noaa.gov/))   
+* National Oceanic and Atmospheric Administration ([NOAA](https://www.noaa.gov/){target="_blank"})   
   * U.S. Integrated Ocean Observing System ([IOOS](https://ioos.noaa.gov/data/data-standards/data-management-planning-coordination/){target="_blank"})
 
 #### DMPTool
 
-DMPTool is a general resource to help with DMP creation, provided by the California Digital Library. [DMPTool](https://dmptool.org) provides templates from a number of agencies, including those listed above, examples of published DMPs, and allows you to request a DOI for your DMP (highly recommended\!).  DMPTool is also working on creating machine-actionable DMPs (ma-DMPs), which will greatly improve the ability of funders and publishers to better track the impact of the research outputs from your science, as described in your DMP\! Stay tuned for exciting advancements in this area, and [read](https://blog.dmptool.org/2025/04/03/working-toward-a-common-standard-api-for-machine-actionable-dmps/) here for more information.
+DMPTool is a general resource to help with DMP creation, provided by the California Digital Library. [DMPTool](https://dmptool.org) provides templates from a number of agencies, including those listed above, examples of published DMPs, and allows you to request a DOI for your DMP (highly recommended\!).  DMPTool is also working on creating machine-actionable DMPs (ma-DMPs), which will greatly improve the ability of funders and publishers to better track the impact of the research outputs from your science, as described in your DMP\! Stay tuned for exciting advancements in this area, and [read](https://blog.dmptool.org/2025/04/03/working-toward-a-common-standard-api-for-machine-actionable-dmps/){target="_blank"} here for more information.
 
 #### Acknowledgements
 
-This resource was created as a working group partnership between the [ESIP Marine Data Cluster](https://www.esipfed.org/collaboration-areas/marine-data/) and the [ESIP Data Stewardship Committee](https://www.esipfed.org/collaboration-areas/data-stewardship/). We are grateful to our ESIP Winter 2025 session speakers and participants for their help generating the best practices and ideas captured in this resource. We would also like to thank the Research Data Alliance (RDA) [DMP Common Standards Working Group](https://www.rd-alliance.org/groups/dmp-common-standards-wg/members/all-members/) for their guidance and continued efforts to advance DMPs.
+This resource was created as a working group partnership between the [ESIP Marine Data Cluster](https://www.esipfed.org/collaboration-areas/marine-data/){target="_blank"} and the [ESIP Data Stewardship Committee](https://www.esipfed.org/collaboration-areas/data-stewardship/){target="_blank"}. We are grateful to our ESIP Winter 2025 session speakers and participants for their help generating the best practices and ideas captured in this resource. We would also like to thank the Research Data Alliance (RDA) [DMP Common Standards Working Group](https://www.rd-alliance.org/groups/dmp-common-standards-wg/members/all-members/){target="_blank"} for their guidance and continued efforts to advance DMPs.
 
 **ESIP DMP Resource Working Group Members:**
 
-- **Elisha M Wood-Charlson** [{{< iconify fa6-brands orcid style="color: #A6CE39;" width="18" >}}](https://orcid.org/0000-0001-9557-7715)
+- **Elisha M Wood-Charlson** [{{< iconify fa6-brands orcid style="color: #A6CE39;" width="18" >}}](https://orcid.org/0000-0001-9557-7715){target="_blank"}
   *ESIP Data Stewardship Committee Chair (2024-2025)*  
   
-- **Bolívar Aponte Rolón**  [{{< iconify fa6-brands orcid style="color: #A6CE39;" width="18" >}}](https://orcid.org/0000-0002-2544-4551)
+- **Bolívar Aponte Rolón**  [{{< iconify fa6-brands orcid style="color: #A6CE39;" width="18" >}}](https://orcid.org/0000-0002-2544-4551){target="_blank"}
 
-- **Rachael Blake** [{{< iconify fa6-brands orcid style="color: #A6CE39;" width="18" >}}](https://orcid.org/0000-0003-0847-9100)
+- **Rachael Blake** [{{< iconify fa6-brands orcid style="color: #A6CE39;" width="18" >}}](https://orcid.org/0000-0003-0847-9100){target="_blank"}
 
-- **Carolina Berys** [{{< iconify fa6-brands orcid style="color: #A6CE39;" width="18" >}}](https://orcid.org/0000-0001-5889-835X) *ESIP Marine Data Cluster Co-Chair*  
+- **Carolina Berys** [{{< iconify fa6-brands orcid style="color: #A6CE39;" width="18" >}}](https://orcid.org/0000-0001-5889-835X){target="_blank"} *ESIP Marine Data Cluster Co-Chair*  
 
-- **Joseph Gum**  [{{< iconify fa6-brands orcid style="color: #A6CE39;" width="18" >}}](https://orcid.org/0000-0002-3045-0593)
+- **Joseph Gum**  [{{< iconify fa6-brands orcid style="color: #A6CE39;" width="18" >}}](https://orcid.org/0000-0002-3045-0593){target="_blank"}

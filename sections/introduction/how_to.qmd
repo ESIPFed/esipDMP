@@ -12,7 +12,7 @@ The DMP Content sections represent content most often seen across funding agency
 
 Also within the DMP Content sections, we have started to provide additional resources that represent best practices in DMPs, and early adopter recommendations for making your DMP “AI-ready”. The technology behind AI-ready DMPs (also called “machine-actionable DMPs”, or maDMPs) is still evolving, but it will greatly accelerate the ability of funders to rapidly and accurately track all research outputs from a funded project. 
 
-One feature being developed by the [RDA DMP Common Standards Working Group](https://www.rd-alliance.org/groups/dmp-common-standards-wg/members/all-members/) is the [RDA DMP Common Standard](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table). These are sprinkled throughout this resource as links to the RDA site, which is curating a standardized vocabulary to represent DMPs[^1].
+One feature being developed by the [RDA DMP Common Standards Working Group](https://www.rd-alliance.org/groups/dmp-common-standards-wg/members/all-members/){target="_blank"} is the [RDA DMP Common Standard](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table){target="_blank"}. These are sprinkled throughout this resource as links to the RDA site, which is curating a standardized vocabulary to represent DMPs[^1].
 
 :::{.commentbox}
 ::::{.commentbox-header}
@@ -21,7 +21,7 @@ One feature being developed by the [RDA DMP Common Standards Working Group](http
 Comments
 ::::
 ::::{.commentbox-body}
-e.g., See [`dataset_id`](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_id_tree) in [RDA DMP Common Standard](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table), this should take you to the Common Standard definition for a “properties in ‘dataset’”. 
+e.g., See [`dataset_id`](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_id_tree){target="_blank"} in [RDA DMP Common Standard](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dmp_table){target="_blank"}, this should take you to the Common Standard definition for a “properties in ‘dataset’”. 
 
 Fields in this table should look familiar\! Datasets should have an ID, a description, release date, metadata, etc. These standardized terms are being built into AI-ready / ma-DMPs, so those fields can be detected and used by AI. If you have a data manager, or you reach out to the data resources listed on the Welcome page, they can help you make your DMP AI-ready\!
 ::::
