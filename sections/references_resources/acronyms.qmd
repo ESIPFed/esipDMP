@@ -4,22 +4,22 @@ title: "Acronyms"
 
 | Acronym | Name                                                        |
 |---------|-------------------------------------------------------------|
-| [ADC](https://arcticdata.io/)      | Arctic Data Center                                          |
-| [ARK](https://arks.org/about/)    | Archival Resource Key                       |
-| [ASIA-AQ](https://www-air.larc.nasa.gov/missions/asia-aq/index.html)  | Airborne and Satellite Investigation of Asian Air Quality   |
-| [BCO-DMO](https://www.bco-dmo.org/)  | Biological and Chemical Oceanography Data Management Office |
-| [DOI](https://www.doi.org/)   | Digital Object Identifier                                 |
-| [IOOS](https://ioos.noaa.gov/)     | U.S. Integrated Ocean Observing System                      |
-| [LTER](https://lternet.edu/)     | Long Term Ecological Research Network                       |
-| [MCR](https://mcr.lternet.edu/)      | Moorea Coral Reef                                           |
-| [NASA](https://www.nasa.gov/)     | National Aeronautics and Space Administration               |
-| [NCEI](https://www.ncei.noaa.gov/)     | National Centers for Environmental Information              |
-| [NOAA](https://www.noaa.gov/)     | National Oceanic and Atmospheric Administration             |
-| [NGA](https://nga.lternet.edu/)      | Northern Gulf of Alaska                                     |
-| [NSF](https://www.nsf.gov/)      | National Science Foundation                                 |
-| [ORCID](https://orcid.org/)    | Open Researcher and Contributor ID                          |
-| [ROR](https://ror.org/)      | Research Organization Registry                              |
-| [SCCOOS](https://sccoos.org/)   | Southern California Coastal Ocean Observing System          |
+| [ADC](https://arcticdata.io/){target="_blank"}      | Arctic Data Center                                          |
+| [ARK](https://arks.org/about/){target="_blank"}    | Archival Resource Key                       |
+| [ASIA-AQ](https://www-air.larc.nasa.gov/missions/asia-aq/index.html){target="_blank"}  | Airborne and Satellite Investigation of Asian Air Quality   |
+| [BCO-DMO](https://www.bco-dmo.org/){target="_blank"}  | Biological and Chemical Oceanography Data Management Office |
+| [DOI](https://www.doi.org/){target="_blank"}   | Digital Object Identifier                                 |
+| [IOOS](https://ioos.noaa.gov/){target="_blank"}     | U.S. Integrated Ocean Observing System                      |
+| [LTER](https://lternet.edu/){target="_blank"}     | Long Term Ecological Research Network                       |
+| [MCR](https://mcr.lternet.edu/){target="_blank"}      | Moorea Coral Reef                                           |
+| [NASA](https://www.nasa.gov/){target="_blank"}     | National Aeronautics and Space Administration               |
+| [NCEI](https://www.ncei.noaa.gov/){target="_blank"}     | National Centers for Environmental Information              |
+| [NOAA](https://www.noaa.gov/){target="_blank"}     | National Oceanic and Atmospheric Administration             |
+| [NGA](https://nga.lternet.edu/){target="_blank"}      | Northern Gulf of Alaska                                     |
+| [NSF](https://www.nsf.gov/){target="_blank"}      | National Science Foundation                                 |
+| [ORCID](https://orcid.org/){target="_blank"}    | Open Researcher and Contributor ID                          |
+| [ROR](https://ror.org/){target="_blank"}      | Research Organization Registry                              |
+| [SCCOOS](https://sccoos.org/){target="_blank"}   | Southern California Coastal Ocean Observing System          |
 
    
-Please suggest including additional terms using our [GitHub feedback issues](https://github.com/ESIPFed/esipDMP/issues/new/choose).
+Please suggest including additional terms using our [GitHub feedback issues](https://github.com/ESIPFed/esipDMP/issues/new/choose){target="_blank"}.
