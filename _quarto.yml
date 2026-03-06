@@ -12,12 +12,15 @@ website:
   repo-url: https://github.com/ESIPFed/esipDMP
   issue-url: https://github.com/ESIPFed/esipDMP/issues/new/choose
   repo-actions: [edit, source, issue]
+  repo-link-target: _blank
+  
   
   page-navigation: true
 
 
   page-footer: 
     left: "Eart Sciences Information Partners (ESIP) Data Stewardship Committee (2025)."
+    center: "<span class='container'><strong>[Contact esipDMP Maintainers](mailto:esip-dmp-admins@esipfed.org){target='_blank'}</strong></span>"
     right: "Built with [Quarto](https://quarto.org) and ♥."
   
   sidebar:
@@ -32,6 +35,9 @@ website:
       - icon: github
         href: https://github.com/ESIPFed/esipDMP
         text: "esipDMP repo"
+      - icon: envelope
+        href: mailto:esip-dmp-admins@esipfed.org
+
   
     style: "docked"
     search: true
@@ -68,6 +74,7 @@ website:
 
 format:
   html:
+    email-obfuscation: javascript
     theme:
       light: [cosmo, assets/styles/theme.scss, assets/styles/custom_callouts.scss]
       dark: [cosmo, assets/styles/theme-dark.scss, assets/styles/custom_callouts_dark.scss]
