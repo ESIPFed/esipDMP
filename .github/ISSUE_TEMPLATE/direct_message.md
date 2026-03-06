@@ -2,11 +2,17 @@
 name: Direct message our team
 about: Contact the maintainers directly via email with questions or concerns
 title: ''
-labels: ''
+labels: 'Immediate'
 assignees: ''
 ---
 
-**Before emailing the team**, please consider: - Have you checked existing [Issues](https://github.com/ESIPFed/esipDMP/issues) and [Discussions](https://github.com/ESIPFed/esipDMP/discussions)? - Is this a bug report or feature request? Consider using the appropriate issue template instead.
+**Before emailing the team**
+
+Please consider:
+
+-   Have you checked existing [Issues](https://github.com/ESIPFed/esipDMP/issues) and [Discussions](https://github.com/ESIPFed/esipDMP/discussions)?
+
+-   Is this a bug report or feature request? Consider using the appropriate issue template instead.
 
 ------------------------------------------------------------------------
 
